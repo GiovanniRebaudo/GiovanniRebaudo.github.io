@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Full CV available [here](files/RebaudoCV.pdf)
+Full CV available [here](/files/RebaudoCV.pdf)
 
 ## Current position
 
