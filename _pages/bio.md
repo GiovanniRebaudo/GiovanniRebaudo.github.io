@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Full CV available [here](https://drive.google.com/file/d/1hhPOSucgQ30T1bJyUgnGy3UcNEJhTVus/view?usp=sharing)
+Full CV available [here](files/RebaudoCV.pdf)
 
 ## Current position
 
