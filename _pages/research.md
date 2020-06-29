@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 {% include base_path %}
-## Current projects
+## Current projects 
 *  Probabilistic discovery of new species and homogeneous subpopulations (joint work with A. Fasano, A. Lijoi and I. Prünster, **working paper**)
 *  Clustering consistency with Dirichlet process mixture modelling (joint work with F. Ascolani, A. Lijoi and G. Zanella, **working paper**)
 *  Hidden hierarchical Dirichlet process for clustering (joint work with A. Lijoi and I. Prünster, **submitted**)
