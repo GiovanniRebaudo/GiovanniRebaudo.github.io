@@ -1,3 +1,13 @@
+---
+layout: archive
+title: ""
+permalink: /coauthorslinks/
+author_profile: true
+redirect_from:
+  - /coauthorslinks
+---
+{% include base_path %}
+
 ## My coauthors
 
 * [Filippo Ascolani](https://filippoascolani.github.io) (Bocconi University, Italy)
