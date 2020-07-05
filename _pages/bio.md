@@ -18,3 +18,8 @@ Full CV available [here](/files/RebaudoCV.pdf)
 * 2016: [MSc in Statistical and Actuarial Science](https://corsi.units.it/en/ec71/statistical-actuarial-sciences) (cum Laude), Università degli Studi di Trieste, Trieste, Italy
 
 * 2014: [BSc in Statistics Economy and Finance](https://www.unimib.it/ugov/degree/4717) (cum Laude), Università degli Studi di Milano-Bicocca, Milan, Italy
+
+## Data competition awards
+
+* 2018: Best objective prediction at [Stat under the Stars 4](https://www.unipa.it/dipartimenti/seas/sus4), Palermo
+* 2017: Winner of the Young-CLADAG data contest, Milan, Italy
