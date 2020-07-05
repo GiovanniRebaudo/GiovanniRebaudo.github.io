@@ -7,7 +7,14 @@ main:
     url: /research/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+  
+  - title: "Coauthors & links"
+    url: /coauthorslinks/
+    
+  - title: "Contact info"
+    url: /contact/ 
+    
     
   #- title: "Portfolio"
   #  url: /portfolio/
