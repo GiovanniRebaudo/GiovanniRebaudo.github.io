@@ -236,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _coauthorslinks
+  - scope:
+      path: ""
+      type: coauthorslinks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
