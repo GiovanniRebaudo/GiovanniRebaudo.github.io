@@ -7,7 +7,6 @@ redirect_from:
   - /coauthorslinks
 ---
 {% include base_path %}
-
 ## My coauthors
 
 * [Filippo Ascolani](https://filippoascolani.github.io) (Bocconi University, Italy)
