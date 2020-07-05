@@ -12,8 +12,8 @@ main:
   - title: "Coauthors & links"
     url: /coauthorslinks/
     
-  - title: "Contact info"
-    url: /contact/ 
+ # - title: "Contact info"
+ #   url: /contact/ 
     
     
   #- title: "Portfolio"
