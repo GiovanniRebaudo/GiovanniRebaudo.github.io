@@ -21,5 +21,5 @@ Full CV available [here](/files/RebaudoCV.pdf)
 
 ## Data competition awards
 
-* 2018: Best objective prediction at [Stat under the Stars 4](https://www.unipa.it/dipartimenti/seas/sus4), Palermo
+* 2018: Best objective prediction at [Stat under the Stars 4](https://www.unipa.it/dipartimenti/seas/sus4), Palermo, Italy
 * 2017: Winner of the Young-CLADAG data contest, Milan, Italy
