@@ -20,7 +20,7 @@ I am interested in Bayesian modelling of complex data. More specifically, I am w
 
 * **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo and sequential Monte Carlo methods.
 
-* **Dynamic regression**: dynamic linear models for binary time series.
+* **Dynamic regression**: hidden Markov models for binary time series.
 
 
 **e-mail**: rebaudo.giovanni@gmail.com
