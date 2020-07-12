@@ -86,7 +86,7 @@ author:
   location         : "Milan, Italy"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=XJS6zU8AAAAJ&hl=en&oi=ao"
   email            : "rebaudo.giovanni@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Giovanni_Rebaudo" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
