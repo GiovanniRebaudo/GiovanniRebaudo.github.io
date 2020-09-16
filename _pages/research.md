@@ -37,5 +37,6 @@ Como, Italy.
 ## Editorial work
 I serve as reviewer for the following statistical journals:
 * Annals of Statistics
+* Bayesian Analysis
 * Electronic Journal of Statistics
 * Statistical Methods & Applications
