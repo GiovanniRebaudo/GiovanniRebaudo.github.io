@@ -12,6 +12,7 @@ redirect_from:
 * [Filippo Ascolani](https://filippoascolani.github.io) (Bocconi University, Italy)
 * [Daniele Durante](https://danieledurante.github.io/web) (Bocconi University, Italy)
 * [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (Bocconi University, Italy)
+* [Beatrice Franzolini](https://beatricefranzolini.github.io/) (Bocconi University, Italy)
 * [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) (Bocconi University, Italy)
 * [Sonia Petrone](http://didattica.unibocconi.eu/docenti/cv.php?rif=48897) (Bocconi University, Italy)
 * [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) (Bocconi University, Italy)
