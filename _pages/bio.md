@@ -10,10 +10,12 @@ redirect_from:
 Full CV available [here](/files/RebaudoCV.pdf)
 
 ## Current position
+* Postdoctoral Associate, [Department of Statistics and Data Science](https://stat.utexas.edu/) of [University of Texas at Austin](https://www.utexas.edu/), Austin, USA.
 
-[PhD student in Statistics](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Programs/PhD/PhD+in+Statistics/PhD+in+Statistics), Università Bocconi, Milan, Italy.
 
 ## Education
+
+* 2021 (expected): [PhD candidate in Statistics](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Programs/PhD/PhD+in+Statistics/PhD+in+Statistics), Università Bocconi, Milan, Italy.
 
 * 2016: [MSc in Statistical and Actuarial Science](https://corsi.units.it/en/ec71/statistical-actuarial-sciences) (cum Laude), Università degli Studi di Trieste, Trieste, Italy
 
