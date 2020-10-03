@@ -25,7 +25,7 @@ Full CV available [here](/files/RebaudoCV.pdf)
   * Advisors: Prof. [Francesco Pauli](https://www.units.it/persone/index.php/from/abook/persona/8755) and Prof. [Nicola Torelli](https://www.units.it/persone/index.php/from/abook/persona/8046)
 
 * 2014: [BSc in Statistics Economy and Finance](https://www.unimib.it/ugov/degree/4717) (cum Laude), Università degli Studi di Milano-Bicocca, Milan, Italy
-  * Thesis title: *A New Technique for Estimation of Logarithmic Time Series Models: Forecast comparison based on economic data*
+  * Thesis title: *A New Technique for Estimation of Logarithmic Time Series Models: Forecast Comparison based on Economic Data*
   * Advisor: Prof. [Matteo Maria Pelagatti](http://www.statistica.unimib.it/utenti/p_matteo/)
   
 ## Data competition awards
