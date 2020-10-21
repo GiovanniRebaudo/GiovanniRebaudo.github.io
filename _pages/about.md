@@ -16,7 +16,7 @@ I am also member of the [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/c
 Previously, I was a PhD student in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) (Milan, Italy), under the supervision of Prof. [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and Prof. [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=).
 
 ## Research interest
-I am interested in Bayesian modelling of complex data. More specifically, I am working on:
+I am interested in Bayesian modelling of complex data structures. More specifically, I am working on:
 
 * **Bayesian nonparametrics**: discrete random probabilities and random partitions.
 
