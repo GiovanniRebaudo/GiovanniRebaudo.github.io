@@ -24,7 +24,7 @@ I am interested in Bayesian modelling of complex data. More specifically, I am w
 
 * **Dynamic regression**: hidden Markov models for binary time series.
 
-* **Applications**: Auditory Neuroscience, genomics and proteomics.
+* **Applications**: auditory neuroscience, genomics and proteomics.
 
 
 **e-mail**: rebaudo.giovanni@gmail.com
