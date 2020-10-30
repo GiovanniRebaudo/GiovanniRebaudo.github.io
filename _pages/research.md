@@ -10,7 +10,7 @@ redirect_from:
 ## Current projects 
 *  Species sampling process (joint work with B. Franzolini, A. Lijoi and I. Prünster, **working paper**)
 *  Probabilistic discovery of new species and homogeneous subpopulations (joint work with A. Fasano, A. Lijoi and I. Prünster, **working paper**)
-*  Clustering consistency with Dirichlet process mixture modelling (joint work with F. Ascolani, A. Lijoi and G. Zanella, **working paper**)
+*  Clustering consistency with Dirichlet process mixture modelling (joint work with F. Ascolani, A. Lijoi and G. Zanella, **submitted**)
 *  Hidden hierarchical Dirichlet process for clustering (joint work with A. Lijoi and I. Prünster, **submitted**)
 *  A closed-form filter for binary time series (joint work with A. Fasano, D. Durante and S. Petrone, **submitted** [arXiv](https://arxiv.org/abs/1902.06994))
 
