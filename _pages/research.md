@@ -18,6 +18,7 @@ redirect_from:
 ## Participation to conferences
 
 ### Invited presentations
+* EcoSta 2021 \[International Conference on Econometrics and Statistics\]. Hong Kong.
 * COMPSTAT 2021 \[International Conference on Computational Statistics\]. Bologna, Italy.
 * CMStatistics–ERCIM 2020 \[13th International Conference of the ERCIM WG on Computational and
 Methodological Statistics\]. London, United Kingdom.
