@@ -43,3 +43,4 @@ I serve as reviewer for the following statistical journals:
 * Bayesian Analysis
 * Electronic Journal of Statistics
 * Statistical Methods & Applications
+* Statistical Science
