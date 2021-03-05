@@ -27,7 +27,7 @@ Methodological Statistics\]. London, United Kingdom.
 * IIASA Conference 2019 \[International Indian Statistical Association\]. Mumbai, India.
 * Second Italian Meeting in Probability and Statistics, 2019. Vietri sul Mare, Italy.
 
-### Seminar
+### Seminars
 * SDS seminar series 2021. Department of Statistics and Data Sciences at the University of Texas at Austin, USA.
 
 
