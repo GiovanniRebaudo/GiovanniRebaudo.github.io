@@ -28,7 +28,7 @@ Methodological Statistics\]. London, United Kingdom.
 * Second Italian Meeting in Probability and Statistics, 2019. Vietri sul Mare, Italy.
 
 ### Seminars
-* SDS seminar series 2021. Department of Statistics and Data Sciences at the University of Texas at Austin, USA.
+* SDS Seminar Series 2021. Department of Statistics and Data Sciences at the University of Texas at Austin, USA.
 
 
 ### Poster presentations
