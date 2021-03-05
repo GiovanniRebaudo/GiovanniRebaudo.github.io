@@ -27,6 +27,10 @@ Methodological Statistics\]. London, United Kingdom.
 * IIASA Conference 2019 \[International Indian Statistical Association\]. Mumbai, India.
 * Second Italian Meeting in Probability and Statistics, 2019. Vietri sul Mare, Italy.
 
+### Seminar
+* SDS seminar series 2021. Department of Statistics and Data Sciences at the University of Texas at Austin, USA.
+
+
 ### Poster presentations
 * O’Bayes 2019 \[Objective Bayes Methodology Conference\]. Warwick, United Kingdom.
 * BNP12 \[International Conference on Bayesian Nonparametrics\] 2019. Oxford, United Kingdom.
