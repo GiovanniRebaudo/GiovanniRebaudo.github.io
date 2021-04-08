@@ -22,6 +22,7 @@ redirect_from:
 * CMStatistics–ERCIM 2021 \[14th International Conference of the ERCIM WG on Computational and
 Methodological Statistics\]. London, United Kingdom.
 * EcoSta 2021 \[International Conference on Econometrics and Statistics\]. Hong Kong.
+* BISP 12, 2021 \[Bayesian inference in stochastic processes\]. Milan, Italy.
 * CMStatistics–ERCIM 2020 \[13th International Conference of the ERCIM WG on Computational and
 Methodological Statistics\]. London, United Kingdom.
 * IIASA Conference 2019 \[International Indian Statistical Association\]. Mumbai, India.
