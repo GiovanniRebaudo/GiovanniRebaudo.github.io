@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 ## Current projects 
-*  Truncated Gaussian project (joint work with F. Pavone, A. Fasano and D. Durante) 
+*  Truncated Gaussian project (joint work with F. Pavone, A. Fasano and D. Durante, **working paper**) 
 *  Species sampling process (joint work with B. Franzolini, A. Lijoi and I. Prünster, **working paper**)
 *  Probabilistic discovery of new species and homogeneous subpopulations (joint work with A. Fasano, A. Lijoi and I. Prünster, **working paper**)
 *  Variational inference for the smoothing distribution in dynamic probit models (joint work with A. Fasano **submitted**, [arXiv](https://arxiv.org/abs/2104.07537),[GitHub](https://github.com/augustofasano/Dynamic-Probit-PFMVB))
