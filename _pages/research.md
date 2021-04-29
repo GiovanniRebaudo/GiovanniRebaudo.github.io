@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 ## Preprints
 *  **Variational inference for the smoothing distribution in dynamic probit models**  
-   A. Fasano, G. Rebaudo [**submitted**] [[arXiv]](https://arxiv.org/abs/2104.07537) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-PFMVB)
+   A. Fasano and G. Rebaudo [**submitted**] [[arXiv]](https://arxiv.org/abs/2104.07537) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-PFMVB)
 *  **Clustering consistency with Dirichlet process mixture modelling**  
    F. Ascolani, A. Lijoi, G. Rebaudo and G. Zanella [**submitted**]
 *  **Flexible clustering via hidden hierarchical Dirichlet priors**  
