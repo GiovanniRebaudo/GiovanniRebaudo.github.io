@@ -52,7 +52,7 @@ Methodological Statistics\]. London, United Kingdom.
 Como, Italy.
 * BISP10 \[Bayesian Inference in Stochastic Processes\] 2017. Milan, Italy.
 
- <! --- 
+ <!--- 
 ## Editorial work
 I serve as reviewer for the following statistical journals:
 * Annals of Statistics
@@ -60,4 +60,4 @@ I serve as reviewer for the following statistical journals:
 * Electronic Journal of Statistics
 * Statistical Methods & Applications
 * Statistical Science
---- !>
+---!>
