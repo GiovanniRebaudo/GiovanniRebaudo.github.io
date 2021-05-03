@@ -51,13 +51,3 @@ Methodological Statistics\]. London, United Kingdom.
 * Bocconi Summer School in Advanced Statistics and Probability on Statistical Causal Learning, 2017.
 Como, Italy.
 * BISP10 \[Bayesian Inference in Stochastic Processes\] 2017. Milan, Italy.
-
- <!--- 
-## Editorial work
-I serve as reviewer for the following statistical journals:
-* Annals of Statistics
-* Bayesian Analysis
-* Electronic Journal of Statistics
-* Statistical Methods & Applications
-* Statistical Science
----!>
