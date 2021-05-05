@@ -45,6 +45,7 @@ Methodological Statistics\]. London, United Kingdom.
 * BNP12 \[International Conference on Bayesian Nonparametrics\] 2019. Oxford, United Kingdom.
 
 ### Events and Summer Schools
+* University of Texas at Austin Summer School in Principles of Machine Learning for Bioinformatics. Asutin, USA, 2021.
 * Bocconi Summer School in Advanced Statistics and Probability on Graphical Models, 2018. Como, Italy.
 * BAYSM 2018 \[Bayesian Young Statisticians Meeting\]. Warwick, United Kingdom.
 * ISBA 2018 \[World Meeting International Society for Bayesian Analysis\]. Edinburgh, United Kingdom.
