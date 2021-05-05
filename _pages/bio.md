@@ -10,13 +10,13 @@ redirect_from:
 Full CV available [here](/files/RebaudoCV.pdf)
 
 ## Current position
-* Postdoctoral Associate, [Department of Statistics and Data Science](https://stat.utexas.edu/) of [University of Texas at Austin](https://www.utexas.edu/), Austin, USA
+* Postdoctoral Researcher, [Department of Statistics and Data Science](https://stat.utexas.edu/) of [University of Texas at Austin](https://www.utexas.edu/), Austin, USA
   * Mentorships: Prof. [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) and Prof. [Abhra Sarkar](https://abhrastat.github.io/)
 
 
 ## Education
 
-* 2021: [PhD candidate in Statistics](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Programs/PhD/PhD+in+Statistics/PhD+in+Statistics) (cum Laude), Università Bocconi, Milan, Italy.
+* 2021: [PhD in Statistics](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Programs/PhD/PhD+in+Statistics/PhD+in+Statistics) (cum Laude), Università Bocconi, Milan, Italy.
   * Thesis title: *Bayesian Inference for Complex Data Structures: Theoretical and Computational Advances*
   * Advisors: Prof. [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and Prof. [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=)
   
