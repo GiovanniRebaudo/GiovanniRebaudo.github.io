@@ -23,7 +23,7 @@ redirect_from:
 *  Probabilistic discovery of new species and homogeneous subpopulations (joint work with A. Fasano, A. Lijoi and I. Prünster, **working paper**)
 
 
-## Participation to conferences
+## Presentations
 
 ### Invited presentations
 * COMPSTAT 2022 \[International Conference on Computational Statistics\]. Bologna, Italy.
@@ -44,7 +44,7 @@ Methodological Statistics\]. London, United Kingdom.
 * O’Bayes 2019 \[Objective Bayes Methodology Conference\]. Warwick, United Kingdom.
 * BNP12 \[International Conference on Bayesian Nonparametrics\] 2019. Oxford, United Kingdom.
 
-### Summer Schools
+## Summer Schools
 * **Principles of Machine Learning for Bioinformatics**  
   University of Texas at Austin Summer School, 2021. Austin, USA.
 * **Graphical Models**  
