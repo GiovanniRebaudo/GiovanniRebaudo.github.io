@@ -45,6 +45,9 @@ Methodological Statistics\]. London, United Kingdom.
 * BNP12 \[International Conference on Bayesian Nonparametrics\] 2019. Oxford, United Kingdom.
 
 ### Summer Schools
-* University of Texas at Austin Summer School on **Principles of Machine Learning for Bioinformatics**, 2021. Austin, USA.
-* Bocconi Summer School in Advanced Statistics and Probability on **Graphical Models**, 2018. Como, Italy.
-* Bocconi Summer School in Advanced Statistics and Probability on **Statistical Causal Learning**, 2017. Como, Italy.
+* **Principles of Machine Learning for Bioinformatics**
+  University of Texas at Austin Summer School, 2021. Austin, USA.
+* **Graphical Models**
+  Bocconi Summer School in Advanced Statistics and Probability, 2018. Como, Italy.
+* **Statistical Causal Learning**
+  Bocconi Summer School in Advanced Statistics and Probability, 2017. Como, Italy.
