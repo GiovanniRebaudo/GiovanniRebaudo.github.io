@@ -44,7 +44,7 @@ Methodological Statistics\]. London, United Kingdom.
 * O’Bayes 2019 \[Objective Bayes Methodology Conference\]. Warwick, United Kingdom.
 * BNP12 \[International Conference on Bayesian Nonparametrics\] 2019. Oxford, United Kingdom.
 
-## Summer Schools
+## Schools
 * **Principles of Machine Learning for Bioinformatics**  
   University of Texas at Austin Summer School, 2021. Austin, USA.
 * **Graphical Models**  
