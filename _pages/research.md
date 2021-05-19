@@ -15,7 +15,7 @@ redirect_from:
 *  **Flexible clustering via hidden hierarchical Dirichlet priors**  
    A. Lijoi, I. Prünster and G. Rebaudo [**submitted**]
 *  **A closed-form filter for binary time series**  
-   A. Fasano, G. Rebaudo, D. Durante and S. Petrone [**submitted**] [[arXiv]](https://arxiv.org/abs/1902.06994)
+   A. Fasano, G. Rebaudo, D. Durante and S. Petrone [**submitted**] [[arXiv]](https://arxiv.org/abs/1902.06994v3)
 
 ## Current projects 
 *  Truncated Gaussian project (joint work with F. Pavone, A. Fasano and D. Durante, **working paper**) 
