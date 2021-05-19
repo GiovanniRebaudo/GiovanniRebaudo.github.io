@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Giovanni Rebaudo"
   avatar           : "gio.png"
-  bio              : "Postdoctoral Associate in Statistics at University of Texas at Austin"
+  bio              : "Postdoctoral Researcher in Statistics at University of Texas at Austin"
   location         : "Austin, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XJS6zU8AAAAJ&hl=en&oi=ao"
-  email            : "rebaudo.giovanni@gmail.com"
+  email            : #"rebaudo.giovanni@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Giovanni_Rebaudo" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
