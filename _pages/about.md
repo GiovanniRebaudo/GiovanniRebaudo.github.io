@@ -27,4 +27,4 @@ I am interested in Bayesian modelling of complex data structures. More specifica
 * **Applications**: auditory neuroscience, genomics and proteomics.
 
 
-**e-mail**: rebaudo.giovanni@gmail.com
+**e-mail**: rebaudo.giovanni @ gmail.com
