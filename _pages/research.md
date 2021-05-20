@@ -15,11 +15,11 @@ redirect_from:
    A. Lijoi, I. Prünster and G. Rebaudo [**submitted**]
 ### Refereed journals   
 *  **A closed-form filter for binary time series**  
-   A. Fasano, G. Rebaudo, D. Durante and S. Petrone (2021+)
+   A. Fasano, G. Rebaudo, D. Durante and S. Petrone (2021+)  
    Statistics and Computing [**forthcoming**] [[arXiv]](https://arxiv.org/abs/1902.06994v3)
 ### Conference proceedings
 *  **Variational inference for the smoothing distribution in dynamic probit models**  
-   A. Fasano and G. Rebaudo (2021)
+   A. Fasano and G. Rebaudo (2021)  
    Book of Short Papers of the Italian Statistical Society [**forthcoming**] [[arXiv]](https://arxiv.org/abs/2104.07537) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-PFMVB)
 
 
