@@ -17,12 +17,12 @@ redirect_from:
 ### Refereed journals   
 *  **A closed-form filter for binary time series**  
    A. Fasano, G. Rebaudo, D. Durante and S. Petrone (2021+)  
-   Statistics and Computing [**forthcoming**] [[arXiv]](https://arxiv.org/abs/1902.06994v3)
+   Statistics and Computing [**in press**] [[arXiv]](https://arxiv.org/abs/1902.06994v3)
 
 ### Conference proceedings
 *  **Variational inference for the smoothing distribution in dynamic probit models**  
    A. Fasano and G. Rebaudo (2021)  
-   Book of Short Papers of the Italian Statistical Society [**forthcoming**] [[arXiv]](https://arxiv.org/abs/2104.07537) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-PFMVB)
+   Book of Short Papers of the Italian Statistical Society [**in press**] [[arXiv]](https://arxiv.org/abs/2104.07537) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-PFMVB)
 
 
 
@@ -45,14 +45,3 @@ Methodological Statistics\]. London, United Kingdom.
 ### Poster presentations
 * O’Bayes 2019 \[Objective Bayes Methodology Conference\]. Warwick, United Kingdom.
 * BNP12 \[International Conference on Bayesian Nonparametrics\] 2019. Oxford, United Kingdom.
-
-## Schools
-* **Principles of Machine Learning for Bioinformatics**  
-  University of Texas at Austin (CBRS) Summer School in Big Data in Biology, 2021. Austin, USA.  
-  Instructor: D. Wylie (University of Texas at Austin, CBRS).
-* **Graphical Models**  
-  Bocconi Summer School in Advanced Statistics and Probability, 2018. Como, Italy.  
-  Instructors: S. Lauritzen (University of Copenhagen) and R. Evans (University of Oxford).
-* **Statistical Causal Learning**  
-  Bocconi Summer School in Advanced Statistics and Probability, 2017. Como, Italy. 
-  Instructors: B. Schölkopf (Max Planck Institute for Intelligent Systems, Tübingen), I. Tolstikhin (Google AI, Zürich) and D. Lopez-Paz (Facebook AI Research, Paris).
