@@ -32,3 +32,15 @@ Full CV available [here](/files/RebaudoCV.pdf)
 
 * 2018: Best objective prediction at [Stat under the Stars 4](https://www.unipa.it/dipartimenti/seas/sus4), Palermo, Italy
 * 2017: Winner of the Young-CLADAG data contest, Milan, Italy
+
+## Schools
+* **Principles of Machine Learning for Bioinformatics**  
+  University of Texas at Austin (CBRS) Summer School in Big Data in Biology, 2021. Austin, USA.  
+  Instructor: D. Wylie (University of Texas at Austin, CBRS).
+* **Graphical Models**  
+  Bocconi Summer School in Advanced Statistics and Probability, 2018. Como, Italy.  
+  Instructors: S. Lauritzen (University of Copenhagen) and R. Evans (University of Oxford).
+* **Statistical Causal Learning**  
+  Bocconi Summer School in Advanced Statistics and Probability, 2017. Como, Italy. 
+  Instructors: B. Schölkopf (Max Planck Institute for Intelligent Systems, Tübingen), I. Tolstikhin (Google AI, Zürich) and D. Lopez-Paz (Facebook AI Research, Paris).
+
