@@ -7,7 +7,6 @@ redirect_from:
   - /presentations
 ---
 {% include base_path %}
-
 ## Invited presentations
 * COMPSTAT 2022 \[International Conference on Computational Statistics\]. Bologna, Italy.
 * CMStatistics–ERCIM 2021 \[14th International Conference of the ERCIM WG on Computational and
