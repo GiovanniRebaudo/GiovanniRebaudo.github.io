@@ -1,19 +1,12 @@
 ---
 layout: archive
-title: "Presentations"
+title: ""
 permalink: /presentations/
 author_profile: true
+redirect_from:
+  - /presentations
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ## Invited presentations
 * COMPSTAT 2022 \[International Conference on Computational Statistics\]. Bologna, Italy.
