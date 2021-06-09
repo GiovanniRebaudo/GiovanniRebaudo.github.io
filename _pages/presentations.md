@@ -10,11 +10,11 @@ redirect_from:
 ## Invited presentations
 * COMPSTAT 2022 \[International Conference on Computational Statistics\]. Bologna, Italy.
 * CMStatistics–ERCIM 2021 \[14th International Conference of the ERCIM WG on Computational and
-Methodological Statistics\]. London, United Kingdom.
-* EcoSta 2021 \[International Conference on Econometrics and Statistics\]. Hong Kong.
-* BISP 12, 2021 \[Bayesian inference in stochastic processes\]. Milan, Italy.
+Methodological Statistics\]. ~~London, United Kingdom~~ online.
+* EcoSta 2021 \[International Conference on Econometrics and Statistics\]. ~~Hong Kong~~ online.
+* BISP 12, 2021 \[Bayesian inference in stochastic processes\]. ~~Milan, Italy~~ online.
 * CMStatistics–ERCIM 2020 \[13th International Conference of the ERCIM WG on Computational and
-Methodological Statistics\]. London, United Kingdom.
+Methodological Statistics\]. ~~London, United Kingdom~~ online.
 * IIASA Conference 2019 \[International Indian Statistical Association\]. Mumbai, India.
 * Second Italian Meeting in Probability and Statistics, 2019. Vietri sul Mare, Italy.
 
