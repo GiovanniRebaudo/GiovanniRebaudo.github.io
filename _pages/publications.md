@@ -15,8 +15,8 @@ redirect_from:
 
 ## Refereed journals   
 *  **A closed-form filter for binary time series**  
-   A. Fasano, G. Rebaudo, D. Durante and S. Petrone (2021+)  
-   Statistics and Computing [**in press**] [[arXiv]](https://arxiv.org/abs/1902.06994v3)
+   A. Fasano, G. Rebaudo, D. Durante and S. Petrone (2021)  
+   Statistics and Computing [[pub]](https://link.springer.com/article/10.1007%2Fs11222-021-10022-w) [[arXiv]](https://arxiv.org/abs/1902.06994v3)
 
 ## Conference proceedings
 *  **Variational inference for the smoothing distribution in dynamic probit models**  
