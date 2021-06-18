@@ -8,12 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 ## Preprints
-*  Ascolani,  F., Lijoi, A., **Rebaudo G.** and Zanella G. (2021+) Clustering consistency with Dirichlet process mixture modelling. [*revision requested*]
-*  Lijoi, A., Prünster, I. and **Rebaudo G.** (2021+) Flexible clustering via hidden hierarchical Dirichlet priors. [*under revision*]
+*  Ascolani,  F., Lijoi, A., **Rebaudo G.** and Zanella G. (2021+). Clustering consistency with Dirichlet process mixture modelling. [*revision requested*]
+*  Lijoi, A., Prünster, I. and **Rebaudo G.** (2021+). Flexible clustering via hidden hierarchical Dirichlet priors. [*under revision*]
 
 
 ## Refereed journals   
-*  Fasano, A., **Rebaudo, G.**, Durante D. and Petrone S.\ (2021). A closed-form filter for binary time series. *Statistics and Computing* **31** (47) [[pub]](https://link.springer.com/article/10.1007%2Fs11222-021-10022-w) [[arXiv]](https://arxiv.org/abs/1902.06994v3)
+*  Fasano, A., **Rebaudo, G.**, Durante D. and Petrone S. (2021). A closed-form filter for binary time series. *Statistics and Computing* **31** (47) [[pub]](https://link.springer.com/article/10.1007%2Fs11222-021-10022-w) [[arXiv]](https://arxiv.org/abs/1902.06994v3)
 
 ## Conference proceedings
 *  Fasano, A., and **Rebaudo, G.** (2021). Variational inference for the smoothing distribution in dynamic probit models. *Book of Short Papers of the Italian Statistical Society* [*in press*] [[arXiv]](https://arxiv.org/abs/2104.07537) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-PFMVB)
