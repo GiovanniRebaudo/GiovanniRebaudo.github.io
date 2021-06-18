@@ -14,6 +14,7 @@ redirect_from:
 * [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (University of Turin, Italy)
 * [Beatrice Franzolini](https://beatricefranzolini.github.io/) (Bocconi University, Italy)
 * [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) (Bocconi University, Italy)
+* [Qiaohui Lin](https://qiaohuilin.github.io/) (The University of Texas at Austin, USA)
 * [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) (The University of Texas at Austin, USA)
 * [Federico Pavone](https://fpavone.github.io/) (Bocconi University, Italy)
 * [Sonia Petrone](http://didattica.unibocconi.eu/docenti/cv.php?rif=48897) (Bocconi University, Italy)
