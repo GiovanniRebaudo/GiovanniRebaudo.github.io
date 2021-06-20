@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 {% include base_path %}
-## Preprints
+## Submitted papers
 *  Ascolani,  F., Lijoi, A., **Rebaudo G.** and Zanella G. (2021+). Clustering consistency with Dirichlet process mixture modelling. [*revision requested*]
 *  Lijoi, A., Prünster, I. and **Rebaudo G.** (2021+). Flexible clustering via hidden hierarchical Dirichlet priors. [*under revision*]
 
