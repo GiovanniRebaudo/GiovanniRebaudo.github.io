@@ -11,22 +11,22 @@ Full CV available [here](/files/RebaudoCV.pdf)
 
 ## Current position
 * Postdoctoral Researcher, [Department of Statistics and Data Science](https://stat.utexas.edu/) of [University of Texas at Austin](https://www.utexas.edu/), Austin, USA
-  * Mentorships: Prof. [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) and Prof. [Abhra Sarkar](https://abhrastat.github.io/)
+  * Mentorships: [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) and [Abhra Sarkar](https://abhrastat.github.io/)
 
 
 ## Education
 
 * 2021: [PhD in Statistics](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Programs/PhD/PhD+in+Statistics/PhD+in+Statistics) (cum Laude), Università Bocconi, Milan, Italy.
   * Thesis title: *Bayesian Inference for Complex Data Structures: Theoretical and Computational Advances*
-  * Advisors: Prof. [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and Prof. [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=)
+  * Advisors: [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=)
   
 * 2016: [MSc in Statistical and Actuarial Science](https://corsi.units.it/en/ec71/statistical-actuarial-sciences) (cum Laude), Università degli Studi di Trieste, Trieste, Italy
   * Thesis title: *Bayesian Hierarchical Model, Theory and Application*
-  * Advisors: Prof. [Francesco Pauli](https://www.units.it/persone/index.php/from/abook/persona/8755) and Prof. [Nicola Torelli](https://www.units.it/persone/index.php/from/abook/persona/8046)
+  * Advisors: [Francesco Pauli](https://www.units.it/persone/index.php/from/abook/persona/8755) and [Nicola Torelli](https://www.units.it/persone/index.php/from/abook/persona/8046)
 
 * 2014: [BSc in Statistics Economy and Finance](https://www.unimib.it/ugov/degree/4717) (cum Laude), Università degli Studi di Milano-Bicocca, Milan, Italy
   * Thesis title: *A New Technique for Estimation of Logarithmic Time Series Models: Forecast Comparison based on Economic Data*
-  * Advisor: Prof. [Matteo Maria Pelagatti](http://www.statistica.unimib.it/utenti/p_matteo/)
+  * Advisor: [Matteo Maria Pelagatti](http://www.statistica.unimib.it/utenti/p_matteo/)
   
 ## Data competition awards
 
