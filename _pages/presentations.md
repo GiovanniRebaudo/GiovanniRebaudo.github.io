@@ -7,6 +7,10 @@ redirect_from:
   - /presentations
 ---
 {% include base_path %}
+
+## Seminars
+* SDS Seminar Series 2021. Department of Statistics and Data Sciences at the University of Texas at Austin, USA, Virtual.
+
 ## Invited presentations
 * COMPSTAT 2022 \[International Conference on Computational Statistics\]. Bologna, Italy.
 * CMStatistics–ERCIM 2021 \[14th International Conference of the ERCIM WG on Computational and
@@ -17,10 +21,6 @@ Methodological Statistics\]. London, UK, Virtual.
 Methodological Statistics\]. London, UK, Virtual.
 * IIASA Conference 2019 \[International Indian Statistical Association\]. Mumbai, India.
 * Second Italian Meeting in Probability and Statistics, 2019. Vietri sul Mare, Italy.
-
-## Seminars
-* SDS Seminar Series 2021. Department of Statistics and Data Sciences at the University of Texas at Austin, USA, Virtual.
-
 
 ## Poster presentations
 * O’Bayes 2019 \[Objective Bayes Methodology Conference\]. Warwick, United Kingdom.
