@@ -34,9 +34,9 @@ Full CV available [here](/files/RebaudoCV.pdf)
 * 2017: Winner of the Young-CLADAG data contest, Milan, Italy
 
 ## Schools
-* **Principles of Machine Learning for Bioinformatics**  
-  University of Texas at Austin (CBRS) Summer School in Big Data in Biology, 2021. Austin, USA.  
-  Instructor: D. Wylie (University of Texas at Austin, CBRS).
+[//]: # * **Principles of Machine Learning for Bioinformatics**  
+[//]: # University of Texas at Austin (CBRS) Summer School in Big Data in Biology, 2021. Austin, USA.  
+[//]: #  Instructor: D. Wylie (University of Texas at Austin, CBRS).
 * **Graphical Models**  
   Bocconi Summer School in Advanced Statistics and Probability, 2018. Como, Italy.  
   Instructors: S. Lauritzen (University of Copenhagen) and R. Evans (University of Oxford).
