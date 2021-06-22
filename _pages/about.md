@@ -18,9 +18,9 @@ Previously, I was a PhD student in Statistics at [Bocconi University](https://ww
 ## Research interest
 I am interested in Bayesian modelling of complex data structures. More specifically, I am working on:
 
-* **Bayesian nonparametrics**: discrete random probabilities and random partitions.
+* **Bayesian nonparametrics**: discrete random probabilities, mixture models, random partitions and probabilistic clustering.
 
-* **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo and sequential Monte Carlo methods.
+* **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo, sequential Monte Carlo methods and variational inference.
 
 * **Dynamic regression**: hidden Markov models for binary time series.
 
