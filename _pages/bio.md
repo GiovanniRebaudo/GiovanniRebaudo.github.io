@@ -21,7 +21,7 @@ Full CV available [here](/files/RebaudoCV.pdf)
   * Advisors: [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=)
   
 * 2016: [MSc in Statistical and Actuarial Science](https://corsi.units.it/en/ec71/statistical-actuarial-sciences) (cum Laude), Università degli Studi di Trieste, Trieste, Italy
-  * Thesis title: *Bayesian Hierarchical Model, Theory and Application*
+  * Thesis title: *Bayesian Hierarchical Model: Theory and Application*
   * Advisors: [Francesco Pauli](https://www.units.it/persone/index.php/from/abook/persona/8755) and [Nicola Torelli](https://www.units.it/persone/index.php/from/abook/persona/8046)
 
 * 2014: [BSc in Statistics Economy and Finance](https://www.unimib.it/ugov/degree/4717) (cum Laude), Università degli Studi di Milano-Bicocca, Milan, Italy
