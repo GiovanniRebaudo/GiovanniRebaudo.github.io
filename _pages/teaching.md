@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ## Teaching experience
 
-**Lecturer** at University of Turin:
+**Lecturer** at the University of Turin:
 * [Statistics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=5nf6) - B.Sc. (AY 2022-2023).
 * [Introduction to Data Science: Statistical Learning and Data Analytics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=qtu2) - B.Sc. (AY 2022-2023).
 
