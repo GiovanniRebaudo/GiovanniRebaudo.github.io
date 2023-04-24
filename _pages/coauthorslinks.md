@@ -28,7 +28,7 @@ redirect_from:
 ## Coauthors (Neuroscience)
 
 * [Bharath Chandrasekaran](https://www.shrs.pitt.edu/people/bharath-chandrasekaran) (University of Pittsburgh, USA)
-* [Fernando Llanos](http://www.fernandollanos.net/) (The University of Texas at Austin, USA)
+* [Fernando Llanos](https://liberalarts.utexas.edu/linguistics/faculty/fl5869) (The University of Texas at Austin, USA)
 * [Jacie McHaney](https://www.shrs.pitt.edu/people/jacie-mchaney) (University of Pittsburgh, USA)
 * [Casey Roark](https://caseyroark.weebly.com/) (University of Pittsburgh, USA)
 
