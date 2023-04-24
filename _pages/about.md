@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my web page!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am an Assistant Professor (RtdA) of Statistical Science at the [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) of the [University of Turin](https://en.unito.it). 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am also a Research Affiliate at [Collegio Carlo Alberto](https://www.carloalberto.org) as part of the ["de Castro" Statistics Initative](https://www.carloalberto.org/research/statistics-initiative), a Research Affiliate at the [Bayes Lab](https://bayeslab.unibocconi.eu/) at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home) and a member of the Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Previously, I was a postdoctoral researcher in Statistics at the [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at [the University of Texas at Austin](https://www.utexas.edu/), under the mentorship of [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) and [Abhra Sarkar](https://abhrastat.github.io/). 
+I obtained my Ph.D. in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/), under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Research interests
+I am interested in Bayesian modeling of complex data structures. More specifically I have been working on:
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* **Bayesian nonparametrics**: discrete random probabilities, mixture models, random partitions and probabilistic clustering.
 
-**Markdown generator**
+* **Bayesian modeling for binary and categorical data**: dynamic regression for binary time series, hidden Markov models, drift diffusion models and Bayesian categorical regression.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* **Probabilistic dimensionality reduction**: Bayesian multidimensional scaling and individual difference scaling analysis.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo, sequential Monte Carlo methods and variational inference.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* **Applications**: auditory neuroscience, genomics and proteomics.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+**e-mail**: rebaudo.giovanni@gmail.com
+
+## News and upcoming events
+
+* Workshop [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html) at CIRM (Luminy, 19-23 June 2023):
+  - I will present the work Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP)**, *Under revision.*
+
+* [EcoSta 2023](http://www.cmstatistics.org/EcoSta2023/index.php) (Tokyo, 1-3 August 2023):
+  - I will present the work Ascolani,  F., Lijoi, A., Rebaudo G. and Zanella G. (2023) **Clustering consistency with Dirichlet process mixtures**, *Biometrika*. [[arXiv]](https://arxiv.org/abs/2205.12924)
+  - [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) will present the work Franzolini, B., Lijoi A., Prünster, I. and Rebaudo, G.  **Multivariate species sampling process**, *Working paper.*
+ 
+
+
+
+
