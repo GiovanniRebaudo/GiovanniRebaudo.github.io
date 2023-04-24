@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 {% include base_path %}
-For an complete list of publications refer to my [curriculum vitae](/files/RebaudoCV.pdf). Codes can be found in my [GitHub repository](https://github.com/GiovanniRebaudo).
+For a complete list of publications refer to my [curriculum vitae](/files/RebaudoCV.pdf). Codes can be found in my [GitHub repository](https://github.com/GiovanniRebaudo).
 
 ## Submitted papers
 *  Lin, Q., Rebaudo G. and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [[arXiv]](https://arxiv.org/abs/2112.07755)
