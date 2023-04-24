@@ -34,7 +34,7 @@ redirect_from:
 
 ## Research networks
 
-* The ["de Castro" Statistics Initative](https://www.carloalberto.org/research/statistics-initiative/) of the [Collegio Carlo Alberto](https://www.carloalberto.org/)
+* The ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) of the [Collegio Carlo Alberto](https://www.carloalberto.org/)
 * The Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) 
 * Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network)
 
@@ -42,7 +42,7 @@ redirect_from:
 
 * [M.Sc. in Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl) at [UniTo](https://en.unito.it)
 * [Allievi Honors Program](https://www.carloalberto.org/education/allievi-honors-program) at [Collegio Carlo Alberto](https://www.carloalberto.org/)
-* [PhD in Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl/View?doc=/content/scientific_and_complementary_training.html) at [UniTo](https://en.unito.it)
+* [Ph.D. in Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl/View?doc=/content/scientific_and_complementary_training.html) at [UniTo](https://en.unito.it)
 * [Statistics Seminars](https://www.carloalberto.org/events/category/seminars/seminars-in-statistics/list) at [Collegio Carlo Alberto](https://www.carloalberto.org/)
 * ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative)
 * [DataLab](https://www.carloalberto.org/research/datalab)
