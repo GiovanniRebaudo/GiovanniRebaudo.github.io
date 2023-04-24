@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Teaching certifications
-* Bocconi Excellence In Advanced Teaching ([BEAT](https://bestr.it/project/show/114?ln=en)).
-
 ## Teaching experience
 
 **Lecturer** at University of Turin:
@@ -25,3 +22,6 @@ redirect_from:
 **Teaching assistant** at Bocconi University:
 * [Machine Learning II](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20605&anno=2020&IdPag=6203) - M.Sc. (AY 2019-2020, 2020-2021).
 * [Data Analysis](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2020&IdPag=6203) - M.Sc. (AY 2017-2018, 2018-2019, 2019-2020).
+
+## Teaching certifications
+* Bocconi Excellence In Advanced Teaching ([BEAT](https://bestr.it/project/show/114?ln=en)).
