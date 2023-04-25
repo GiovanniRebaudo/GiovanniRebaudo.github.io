@@ -26,7 +26,7 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 * **Probabilistic dimensionality reduction**: Bayesian multidimensional scaling and individual difference scaling analysis.
 
-* **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo, sequential Monte Carlo methods and variational inference.
+* **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo, sequential Monte Carlo methods, variational inference and expectation propagation.
 
 * **Applications**: auditory neuroscience, genomics and proteomics.
 
