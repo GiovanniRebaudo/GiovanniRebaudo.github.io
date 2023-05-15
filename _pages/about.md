@@ -39,7 +39,7 @@ I am interested in Bayesian modeling of complex data structures. More specifical
   - I will present the work Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP)**, *Under revision.*
 
 * [EcoSta 2023](http://www.cmstatistics.org/EcoSta2023/index.php) (Tokyo, 1-3 August 2023):
-  - I will present the work Ascolani,  F., Lijoi, A., Rebaudo G. and Zanella G. (2023) **Clustering consistency with Dirichlet process mixtures**, *Biometrika*. [[arXiv]](https://arxiv.org/abs/2205.12924)
+  - I will present the work Ascolani,  F., Lijoi, A., Rebaudo G. and Zanella G. (2023) **Clustering consistency with Dirichlet process mixtures**, *Biometrika*, **110**, 551-558. [[arXiv]](https://arxiv.org/abs/2205.12924)
   - [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) will present the work Franzolini, B., Lijoi A., Prünster, I. and Rebaudo, G.  **Multivariate species sampling process**, *Working paper.*
  
 
