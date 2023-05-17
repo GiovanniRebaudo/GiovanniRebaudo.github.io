@@ -18,7 +18,7 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 *  Franzolini, B. and Rebaudo G. **Entropy-regularized probabilistic clustering.** 
 
 ## Submitted proceedings
-*  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. **Efficient computation of predictive probabilities in probit models via expectation propagation.** [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/GiovanniRebaudo/EPprobit-SN)
+*  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. **Efficient computation of predictive probabilities in probit models via expectation propagation.** [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 
 
 
