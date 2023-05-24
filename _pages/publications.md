@@ -28,6 +28,8 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 *  Fasano, A., Rebaudo, G., Durante D. and Petrone S. (2021). **A closed-form filter for binary time series.** *Statistics and Computing*, **31**:47, 1-20. [[link]](https://doi.org/10.1007/s11222-021-10022-w) [[arXiv]](https://doi.org/10.48550/arXiv.1902.06994)
 
 ## Refereed conference proceedings
+* Franzolini, B., Bondi, L., Fasano, A. and Rebaudo G. (2023). **Bayesian forecasting of multivariate longitudinal zero-inflated counts: an application to civil conflict.** *Book of Short Papers - CLADAG
+2023* [*in press*]
 *  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. (2023) **Efficient expectation propagation for posterior approximation in high-dimensional probit models.** *Book of Short Papers - SIS 2023* [*in press*] [[pdf]](/Publications/2023FasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 *  Fasano, A., Rebaudo G. and Anceschi N. (2022). **Bayesian inference for the multinomial probit model under Gaussian prior distribution.** *Book of Short Papers - SIS 2022*, 871-876. [[link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf) [[arXiv]](https://arxiv.org/abs/2206.00720)
 *  Franzolini, B. and Rebaudo G. (2022). **A regularized-entropy estimator to enhance cluster interpretability in Bayesian nonparametric.** *Book of Short Papers - SIS 2022*, 387-398. [[link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf) [[pdf]](/Publications/2022FranzoliniRebaudo.pdf)
