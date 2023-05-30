@@ -17,8 +17,7 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 *  Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP).**
 *  Franzolini, B. and Rebaudo G. **Entropy-regularized probabilistic clustering.** 
 
-## Submitted proceedings
-*  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. **Efficient computation of predictive probabilities in probit models via expectation propagation.** [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
+
 
 
 
@@ -28,6 +27,8 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 *  Fasano, A., Rebaudo, G., Durante D. and Petrone S. (2021). **A closed-form filter for binary time series.** *Statistics and Computing*, **31**:47, 1-20. [[link]](https://doi.org/10.1007/s11222-021-10022-w) [[arXiv]](https://doi.org/10.48550/arXiv.1902.06994)
 
 ## Refereed conference proceedings
+*  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. **Efficient computation of predictive probabilities in probit models via expectation propagation.** *Book of Short Papers - CLADAG
+2023* [*in press*] [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 * Franzolini, B., Bondi, L., Fasano, A. and Rebaudo G. (2023). **Bayesian forecasting of multivariate longitudinal zero-inflated counts: an application to civil conflict.** *Book of Short Papers - CLADAG
 2023* [*in press*]
 *  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. (2023) **Efficient expectation propagation for posterior approximation in high-dimensional probit models.** *Book of Short Papers - SIS 2023* [*in press*] [[pdf]](/Publications/2023FasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
