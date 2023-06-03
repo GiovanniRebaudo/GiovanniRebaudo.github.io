@@ -17,7 +17,7 @@ redirect_from:
 * [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (European Commission, Italy)
 * [Beatrice Franzolini](https://beatricefranzolini.github.io/) (A*STAR, Singapore)
 * [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) (Bocconi University, Italy)
-* [Qiaohui Lin](https://qiaohuilin.github.io/) (Meta, USA)
+* [Qiaohui Lin](https://qiaohuilin.github.io/) (Genentech, USA)
 * [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) (The University of Texas at Austin, USA)
 * [Giorgio Paulon](https://giorgiopaulon.github.io/) (Berry Consultants, USA)
 * [Sonia Petrone](http://didattica.unibocconi.eu/docenti/cv.php?rif=48897) (Bocconi University, Italy)
