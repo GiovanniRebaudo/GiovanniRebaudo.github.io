@@ -11,8 +11,8 @@ redirect_from:
 ## Teaching experience
 
 **Lecturer** at the University of Turin:
-* [Statistics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=5nf6) - B.Sc. (AY 2022-2023).
-* [Introduction to Data Science: Statistical Learning and Data Analytics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=qtu2) - B.Sc. (AY 2022-2023).
+* [Statistics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=5nf6) - B.Sc. (AY 2022-2023, 2023-2024).
+* [Introduction to Data Science: Statistical Learning and Data Analytics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=qtu2) - B.Sc. (AY 2022-2023, 2023-2024).
 
 **Guest lecturer** at the University of Texas at Austin:
 * [Monte Carlo Statistical Methods](https://stat.utexas.edu/academics/phd-statistics) - Ph.D. (AY 2022-2023).
