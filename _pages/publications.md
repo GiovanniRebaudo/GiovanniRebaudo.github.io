@@ -14,7 +14,7 @@ For a complete list of publications refer to my [curriculum vitae](/files/Rebaud
 *  Roark, C. L., Paulon, G., Rebaudo, G., McHaney, J. R., Sarkar, A. and Chandrasekaran, B. **Individual differences in working memory impact decision processes during speech category learning.** [[PsyArXiv]](https://doi.org/10.31234/osf.io/fzqht) [[code]](https://doi.org/10.17605/OSF.IO/WDPYU)
 *  Rebaudo G., Llanos, F., Chandrasekaran B. and Sarkar, A. **Bayesian mixed multidimensional scaling
 for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
-*  Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP).**
+*  Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP).** [[arXiv]](https://arxiv.org/abs/2306.08485)
 *  Franzolini, B. and Rebaudo G. **Entropy-regularized probabilistic clustering.** 
 
 
