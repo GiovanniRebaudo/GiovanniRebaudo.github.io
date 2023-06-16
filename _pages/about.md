@@ -36,7 +36,7 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 ## News and upcoming events
 
 * Workshop [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html) at CIRM (Luminy, 19-23 June 2023):
-  - I will present the work Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP)**, *Under revision.*
+  - I will present the work Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP)**, *Under revision.* [[arXiv]](https://arxiv.org/abs/2306.08485)
 
 * [EcoSta 2023](http://www.cmstatistics.org/EcoSta2023/index.php) (Tokyo, 1-3 August 2023):
   - I will present the work Ascolani,  F., Lijoi, A., Rebaudo G. and Zanella G. (2023) **Clustering consistency with Dirichlet process mixtures**, *Biometrika*, **110**, 551-558. [[arXiv]](https://arxiv.org/abs/2205.12924)
