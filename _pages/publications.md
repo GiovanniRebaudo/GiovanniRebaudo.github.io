@@ -30,7 +30,7 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 *  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. **Efficient computation of predictive probabilities in probit models via expectation propagation.** *Book of Short Papers - CLADAG
 2023* [*in press*] [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 * Franzolini, B., Bondi, L., Fasano, A. and Rebaudo G. (2023). **Bayesian forecasting of multivariate longitudinal zero-inflated counts: an application to civil conflict.** *Book of Short Papers - CLADAG
-2023* [*in press*]
+2023* [*in press*] [[pdf]](/Publications/FranzoliniBondiFasanoRebaudo2023.pdf)
 *  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. (2023) **Efficient expectation propagation for posterior approximation in high-dimensional probit models.** *Book of Short Papers - SIS 2023* [*in press*] [[pdf]](/Publications/2023FasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 *  Fasano, A., Rebaudo G. and Anceschi N. (2022). **Bayesian inference for the multinomial probit model under Gaussian prior distribution.** *Book of Short Papers - SIS 2022*, 871-876. [[link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf) [[arXiv]](https://arxiv.org/abs/2206.00720)
 *  Franzolini, B. and Rebaudo G. (2022). **A regularized-entropy estimator to enhance cluster interpretability in Bayesian nonparametric.** *Book of Short Papers - SIS 2022*, 387-398. [[link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf) [[pdf]](/Publications/2022FranzoliniRebaudo.pdf)
