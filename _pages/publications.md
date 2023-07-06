@@ -28,7 +28,7 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
 ## Refereed conference proceedings
 *   Anceschi N., Fasano, A. and Rebaudo G. (2023). **Efficient expectation propagation for the smoothing distribution in dynamic probit.** *Bayesian Statistics, New Generations New Approaches (BaYSM2022)* [*in press*] [[pdf]](/Publications/2023AnceschiFasanoRebaudo.pdf)
-*  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. **Efficient computation of predictive probabilities in probit models via expectation propagation.** *Book of Short Papers - CLADAG
+*  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. (2023) **Efficient computation of predictive probabilities in probit models via expectation propagation.** *Book of Short Papers - CLADAG
 2023* [*in press*] [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 * Franzolini, B., Bondi, L., Fasano, A. and Rebaudo G. (2023). **Bayesian forecasting of multivariate longitudinal zero-inflated counts: an application to civil conflict.** *Book of Short Papers - CLADAG
 2023* [*in press*] [[pdf]](/Publications/FranzoliniBondiFasanoRebaudo2023.pdf)
