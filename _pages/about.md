@@ -20,13 +20,13 @@ I obtained my Ph.D. in Statistics at [Bocconi University](https://www.unibocconi
 ## Research interests
 I am interested in Bayesian modeling of complex data structures. More specifically I have been working on:
 
-* **Bayesian nonparametrics**: discrete random probabilities, mixture models, random partitions and probabilistic clustering.
+* **Bayesian nonparametrics**: discrete random probabilities, mixture models, random partitions, and probabilistic clustering.
 
-* **Bayesian modeling for binary and categorical data**: dynamic regression for binary time series, hidden Markov models, drift diffusion models and Bayesian categorical regression.
+* **Bayesian modeling for binary and categorical data**: dynamic regression for binary time series, hidden Markov models, drift-diffusion models, and Bayesian categorical regression.
 
 * **Probabilistic dimensionality reduction**: Bayesian multidimensional scaling and individual difference scaling analysis.
 
-* **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo, sequential Monte Carlo methods, variational inference and expectation propagation.
+* **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo, sequential Monte Carlo methods, variational inference, and expectation propagation.
 
 * **Applications**: auditory neuroscience, genomics and proteomics.
 
@@ -40,7 +40,7 @@ I am interested in Bayesian modeling of complex data structures. More specifical
   - [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) will present the work Franzolini, B., Lijoi A., Prünster, I. and Rebaudo, G.  **Multivariate species sampling process**, *Working paper.*
 * [ISBA 2024](https://bayesian.org/2024-world-meeting-2) (Venice, 1-7 July 2024)
 * [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/)
- 
+ (08 Jul-02 Aug 2024, Singapore)
 
 
 
