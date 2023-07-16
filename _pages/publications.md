@@ -15,9 +15,9 @@ For a complete list of publications refer to my [curriculum vitae](/files/Rebaud
 *  Rebaudo G., Llanos, F., Chandrasekaran B. and Sarkar, A. **Bayesian mixed multidimensional scaling
 for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 *  Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP).** [[arXiv]](https://arxiv.org/abs/2306.08485)
-*  Franzolini, B. and Rebaudo G. **Entropy-regularized probabilistic clustering.** 
 
 ## Papers in Peer-Reviewed Journals
+*  Franzolini, B. and Rebaudo, G. (2023). **Entropy-regularized probabilistic clustering.** *Statistical Methods & Applications*, in press.
 *  Ascolani,  F., Lijoi, A., Rebaudo G. and Zanella G. (2023). **Clustering consistency with Dirichlet process mixtures.** *Biometrika*, **110**, 551-558. [[link]](https://doi.org/10.1093/biomet/asac051) [[arXiv]](https://doi.org/10.48550/arXiv.2205.12924)
 *  Lijoi, A., Prünster, I. and Rebaudo G. (2023). **Flexible clustering via hidden hierarchical Dirichlet priors.** *Scandinavian Journal of Statistics*, **50**, 213–234. [[link]](https://doi.org/10.1111/sjos.12578) [[arXiv]](https://doi.org/10.48550/arXiv.2201.06994)
 *  Fasano, A., Rebaudo, G., Durante D. and Petrone S. (2021). **A closed-form filter for binary time series.** *Statistics and Computing*, **31**:47, 1-20. [[link]](https://doi.org/10.1007/s11222-021-10022-w) [[arXiv]](https://doi.org/10.48550/arXiv.1902.06994)
