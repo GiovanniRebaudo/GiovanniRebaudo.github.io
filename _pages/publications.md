@@ -23,15 +23,15 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 *  Fasano, A., Rebaudo, G., Durante D. and Petrone S. (2021). **A closed-form filter for binary time series.** *Statistics and Computing*, **31**:47, 1-20. [[link]](https://doi.org/10.1007/s11222-021-10022-w) [[arXiv]](https://doi.org/10.48550/arXiv.1902.06994)
 
 ## Discussions
-* Catalano, M., Fasano, A. and Rebaudo G. (2023) **A discussion on: "Martingale posterior distributions" by Fong, E., Holmes C., and Walker S.** *Journal of the Royal Statistical Society Series B* [*in press*] [[link]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkad095/7252511)
+* Catalano, M., Fasano, A. and Rebaudo G. (2023) **A discussion on: "Martingale posterior distributions" by Fong, E., Holmes C., and Walker S.** *Journal of the Royal Statistical Society Series B*, in press. [[link]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkad095/7252511)
 * Rebaudo G., Fasano, A., Franzolini, B. and Müller, P. (2023) **A discussion on: "Evaluating sensitivity to the stick-breaking prior in Bayesian nonparametrics" by Giordano, R., Liu, R., Jordan M. I. and Broderick T.** *Bayesian Analysis*, **18**, 345-347. [[link]](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full) [[pdf]](/Publications/2022RebaudoFasanoFranzoliniMueller.pdf)
 
 ## Conference Proceedings (Peer-Reviewed)
-*   Anceschi N., Fasano, A. and Rebaudo G. (2023). **Expectation propagation for the smoothing distribution in dynamic probit.** *Bayesian Statistics, New Generations New Approaches (BaYSM2022)* [*in press*] [[pdf]](/Publications/2023AnceschiFasanoRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-EP)
+*   Anceschi N., Fasano, A. and Rebaudo G. (2023). **Expectation propagation for the smoothing distribution in dynamic probit.** *Bayesian Statistics, New Generations New Approaches (BaYSM2022)*, in press. [[pdf]](/Publications/2023AnceschiFasanoRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-EP)
 *  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. (2023) **Efficient computation of predictive probabilities in probit models via expectation propagation.** *Book of Short Papers - CLADAG
-2023* [*in press*] [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
+2023*, 449-452. [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 * Franzolini, B., Bondi, L., Fasano, A. and Rebaudo G. (2023). **Bayesian forecasting of multivariate longitudinal zero-inflated counts: an application to civil conflict.** *Book of Short Papers - CLADAG
-2023* [*in press*] [[pdf]](/Publications/FranzoliniBondiFasanoRebaudo2023.pdf)
+2023*, 465-468. [[pdf]](/Publications/FranzoliniBondiFasanoRebaudo2023.pdf)
 *  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. (2023) **Efficient expectation propagation for posterior approximation in high-dimensional probit models.** *Book of Short Papers - SIS 2023*, 1133-1138. [[pdf]](/Publications/2023FasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 *  Fasano, A., Rebaudo G. and Anceschi N. (2022). **Bayesian inference for the multinomial probit model under Gaussian prior distribution.** *Book of Short Papers - SIS 2022*, 871-876. [[link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf) [[arXiv]](https://arxiv.org/abs/2206.00720)
 *  Franzolini, B. and Rebaudo G. (2022). **A regularized-entropy estimator to enhance cluster interpretability in Bayesian nonparametric.** *Book of Short Papers - SIS 2022*, 387-398. [[link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf) [[pdf]](/Publications/2022FranzoliniRebaudo.pdf)
@@ -43,3 +43,4 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 *   [ResearchGate](https://www.researchgate.net/profile/Giovanni-Rebaudo)
 *   [Orcid](https://orcid.org/0000-0003-4619-9302)
 *   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219505085)
+*   [Iris](https://iris.unito.it/cris/rp/rp219335)
