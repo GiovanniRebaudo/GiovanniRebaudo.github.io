@@ -14,7 +14,7 @@ redirect_from:
 * [Laura Bondi](https://laurabondi.github.io) (Cambridge University, UK)
 * [Marta Catalano](https://martacatalano.github.io) (University of Warwick, UK)
 * [Daniele Durante](https://danieledurante.github.io/web) (Bocconi University, Italy)
-* [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (European Commission, Italy)
+* [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (Catholic University, Italy)
 * [Beatrice Franzolini](https://beatricefranzolini.github.io/) (Bocconi University, Italy)
 * [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) (Bocconi University, Italy)
 * [Qiaohui Lin](https://qiaohuilin.github.io/) (Genentech, USA)
