@@ -7,6 +7,9 @@ redirect_from:
   - /coauthorslinks
 ---
 {% include base_path %}
+**Postdoctoral research opportunity**: I will soon be hiring a postdoctoral researcher! 
+If you are interested in working with me and would like to learn more about the position, send me an email.
+
 ## Coauthors (Statistics)
 
 * [Niccolò Anceschi](https://niccoloanceschi.github.io) (Duke University, USA)
