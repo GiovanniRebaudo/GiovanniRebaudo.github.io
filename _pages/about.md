@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my web page!
 
-I am an Assistant Professor (RtdA) of Statistical Science at the [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) of the [University of Turin](https://en.unito.it). 
+I am an Assistant Professor (RtdA) of Statistical Science at the [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) of the [University of Torino](https://en.unito.it). 
 
 I am also a Research Affiliate at [Collegio Carlo Alberto](https://www.carloalberto.org) as part of the ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative), a Research Affiliate at the [Bayes Lab](https://bayeslab.unibocconi.eu/) at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home) and a member of the Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network).
 
@@ -37,7 +37,8 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 * **Postdoctoral research opportunity**: I will soon be hiring a postdoctoral researcher!
   If you are interested in working with me and would like to learn more about the position, send me an email.
-  
+
+* [Workshop on Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196) (Oaxaca, 1-6 Sept 2024)
 * [ISNPS 2024](https://w3.math.uminho.pt/ISNPS2024/index.html#) (Braga, 25-29 June 2024)
 * [ISBA 2024](https://bayesian.org/2024-world-meeting-2) (Venice, 1-7 July 2024)
 * [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/)
