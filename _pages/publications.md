@@ -26,7 +26,7 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 * Catalano, M., Fasano, A. and Rebaudo G. (2023) **A discussion on: "Martingale posterior distributions" by Fong, E., Holmes C., and Walker S.** *Journal of the Royal Statistical Society Series B*, in press. [[link]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkad095/7252511)
 * Rebaudo G., Fasano, A., Franzolini, B. and Müller, P. (2023) **A discussion on: "Evaluating sensitivity to the stick-breaking prior in Bayesian nonparametrics" by Giordano, R., Liu, R., Jordan M. I. and Broderick T.** *Bayesian Analysis*, **18**, 345-347. [[link]](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full) [[pdf]](/Publications/2022RebaudoFasanoFranzoliniMueller.pdf)
 
-## Conference Proceedings (Peer-Reviewed)
+## Conference Proceedings and Book Chapters (Peer-Reviewed)
 *   Anceschi N., Fasano, A. and Rebaudo G. (2023). **Expectation propagation for the smoothing distribution in dynamic probit.** *Bayesian Statistics, New Generations New Approaches (BaYSM2022)*, in press. [[pdf]](/Publications/2023AnceschiFasanoRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-EP)
 *  Fasano, A., Anceschi N., Franzolini, B. and Rebaudo G. (2023) **Efficient computation of predictive probabilities in probit models via expectation propagation.** *Book of Short Papers - CLADAG
 2023*, 449-452. [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
