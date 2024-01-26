@@ -35,9 +35,6 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 ## News and upcoming events
 
-* **Postdoctoral research opportunity**: I will soon be hiring a postdoctoral researcher!
-  If you are interested in working with me and would like to learn more about the position, send me an email.
-
 * [Mathematics & Statistics Seminar at the Department of Economics of the University of Bergamo](https://dse.unibg.it/it/eventi/statistics-seminars-giovanni-rebaudo) (Bergamo, 28 May 2024)
 * [ISNPS 2024](https://w3.math.uminho.pt/ISNPS2024/index.html#) (Braga, 25-29 June 2024)
 * [ISBA 2024](https://bayesian.org/2024-world-meeting-2) (Venice, 1-7 July 2024)
