@@ -35,6 +35,7 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 ## News and upcoming events
 
+* [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Torino, 21-25 July 2025)
 * [Mathematics & Statistics Seminar at the Department of Economics of the University of Bergamo](https://dse.unibg.it/it/eventi/statistics-seminars-giovanni-rebaudo) (Bergamo, 28 May 2024)
 * [ISNPS 2024](https://w3.math.uminho.pt/ISNPS2024/index.html#) (Braga, 25-29 June 2024)
 * [ISBA 2024](https://bayesian.org/2024-world-meeting-2) (Venice, 1-7 July 2024)
