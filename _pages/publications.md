@@ -24,7 +24,7 @@ for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
 ## Discussions
 * Catalano, M., Fasano, A., Giordano, M. and Rebaudo G. (2024) **A discussion on: "Root and community inference on the latent growth process of a network" by Crane H. and Xu M.** *Journal of the Royal Statistical Society Series B*, in press.
-* Catalano, M., Fasano, A. and Rebaudo G. (2023) **A discussion on: "Martingale posterior distributions" by Fong, E., Holmes C., and Walker S.** *Journal of the Royal Statistical Society Series B*, 85, 1406-1407. [[link]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkad095/7252511)
+* Catalano, M., Fasano, A. and Rebaudo G. (2023) **A discussion on: "Martingale posterior distributions" by Fong, E., Holmes C., and Walker S.** *Journal of the Royal Statistical Society Series B*, **85**, 1406-1407. [[link]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkad095/7252511)
 * Rebaudo G., Fasano, A., Franzolini, B. and Müller, P. (2023) **A discussion on: "Evaluating sensitivity to the stick-breaking prior in Bayesian nonparametrics" by Giordano, R., Liu, R., Jordan M. I. and Broderick T.** *Bayesian Analysis*, **18**, 345-347. [[link]](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full) [[pdf]](/Publications/2022RebaudoFasanoFranzoliniMueller.pdf)
 
 ## Conference Proceedings and Book Chapters (Peer-Reviewed)
