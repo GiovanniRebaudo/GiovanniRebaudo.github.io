@@ -30,9 +30,6 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 * **Applications**: auditory neuroscience, genomics and proteomics.
 
-
-**e-mail**: rebaudo.giovanni@gmail.com
-
 ## News and upcoming events
 
 * [Mathematics & Statistics Seminar at the Department of Economics of the University of Bergamo](https://dse.unibg.it/it/eventi/statistics-seminars-giovanni-rebaudo) (Bergamo, 28 May 2024)
