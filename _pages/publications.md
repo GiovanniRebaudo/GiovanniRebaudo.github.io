@@ -13,9 +13,9 @@ For a complete list of publications refer to my [curriculum vitae](/files/Rebaud
 *  Lin, Q., Rebaudo G. and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [[arXiv]](https://arxiv.org/abs/2112.07755)
 *  Rebaudo G., Llanos, F., Chandrasekaran B. and Sarkar, A. **Bayesian mixed multidimensional scaling
 for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
-*  Rebaudo, G. and Müller, P. **Graph-aligned random partition model (GARP).** [[arXiv]](https://arxiv.org/abs/2306.08485)
 
 ## Papers in Peer-Reviewed Journals
+*  Rebaudo, G. and Müller, P. (2024) **Graph-aligned random partition model (GARP).** *Journal of the American Statistical Association (T \& M)*, in press. [[arXiv]](https://arxiv.org/abs/2306.08485)
 *  Roark, C. L., Paulon, G., Rebaudo, G., McHaney, J. R., Sarkar, A. and Chandrasekaran, B. (2024). **Individual differences in working memory impact the trajectory of non-native speech category learning.** *PLOS ONE*, in press. [[PsyArXiv]](https://doi.org/10.31234/osf.io/fzqht) [[code]](https://doi.org/10.17605/OSF.IO/WDPYU)
 *  Franzolini, B. and Rebaudo, G. (2024). **Entropy regularization in probabilistic clustering.** *Statistical Methods & Applications*, in press. [[link]](https://link.springer.com/article/10.1007/s10260-023-00716-y) [[arXiv]](https://arxiv.org/abs/2307.10065) [[GitHub]](https://github.com/GiovanniRebaudo/ERC)
 *  Ascolani,  F., Lijoi, A., Rebaudo G. and Zanella G. (2023). **Clustering consistency with Dirichlet process mixtures.** *Biometrika*, **110**, 551-558. [[link]](https://doi.org/10.1093/biomet/asac051) [[arXiv]](https://doi.org/10.48550/arXiv.2205.12924)
