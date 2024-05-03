@@ -10,9 +10,8 @@ redirect_from:
 For a complete list of publications refer to my [curriculum vitae](/files/RebaudoCV.pdf). Codes can be found in my [GitHub repository](https://github.com/GiovanniRebaudo).
 
 ## Papers under Review
-*  Lin, Q., Rebaudo G. and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [[arXiv]](https://arxiv.org/abs/2112.07755)
-*  Rebaudo G., Llanos, F., Chandrasekaran B. and Sarkar, A. **Bayesian mixed multidimensional scaling
-for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
+*  Lin, Q., Rebaudo G. and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [pdf]](/Publications/2024RebaudoMueller.pdf)[[arXiv]](https://arxiv.org/abs/2112.07755)
+*  Rebaudo G., Llanos, F., Chandrasekaran B. and Sarkar, A. **Bayesian mixed multidimensional scaling for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
 ## Papers in Peer-Reviewed Journals
 *  Rebaudo, G. and Müller, P. (2024) **Graph-aligned random partition model (GARP).** *Journal of the American Statistical Association (T & M)*, in press. [[arXiv]](https://arxiv.org/abs/2306.08485)
