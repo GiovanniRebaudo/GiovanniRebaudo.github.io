@@ -11,19 +11,19 @@ For a complete list of publications refer to my [curriculum vitae](/files/Rebaud
 
 ## Papers under Review
 *  Anceschi, N., Fasano, A., Franzolini, B., and Rebaudo, G. **Scalable expectation propagation for generalized linear regressions.**
-*  Lin, Q., Rebaudo G., and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [[arXiv]](https://arxiv.org/abs/2112.07755)
+*  Rebaudo G., Lin, Q., and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [[arXiv]](https://arxiv.org/abs/2112.07755)
 *  Rebaudo G., Llanos, F., Chandrasekaran B., and Sarkar, A. **Bayesian mixed multidimensional scaling for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
 ## Papers in Peer-Reviewed Journals
 *  Rebaudo, G. and Müller, P. (2024) **Graph-aligned random partition model (GARP).** *Journal of the American Statistical Association (T & M)*, in press. [[arXiv]](https://arxiv.org/abs/2306.08485) [[pdf]](/Publications/2024RebaudoMueller.pdf)
-*  Roark, C. L., Paulon, G., Rebaudo, G., McHaney, J. R., Sarkar, A., and Chandrasekaran, B. (2024). **Individual differences in working memory impact the trajectory of non-native speech category learning.** *PLOS ONE*, in press. [[PsyArXiv]](https://doi.org/10.31234/osf.io/fzqht) [[code]](https://doi.org/10.17605/OSF.IO/WDPYU)
+*  Roark, C. L., Paulon, G., Rebaudo, G., McHaney, J. R., Sarkar, A., and Chandrasekaran, B. (2024). **Individual differences in working memory impact the trajectory of non-native speech category learning.** *PLOS ONE*, **19**:e0297917, 1-26. [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297917) [[code]](https://doi.org/10.17605/OSF.IO/WDPYU)
 *  Franzolini, B. and Rebaudo, G. (2024). **Entropy regularization in probabilistic clustering.** *Statistical Methods & Applications*, **33**, 37-60. [[link]](https://link.springer.com/article/10.1007/s10260-023-00716-y) [[arXiv]](https://arxiv.org/abs/2307.10065) [[GitHub]](https://github.com/GiovanniRebaudo/ERC)
 *  Ascolani,  F., Lijoi, A., Rebaudo G., and Zanella G. (2023). **Clustering consistency with Dirichlet process mixtures.** *Biometrika*, **110**, 551-558. [[link]](https://doi.org/10.1093/biomet/asac051) [[arXiv]](https://doi.org/10.48550/arXiv.2205.12924)
 *  Lijoi, A., Prünster, I., and Rebaudo G. (2023). **Flexible clustering via hidden hierarchical Dirichlet priors.** *Scandinavian Journal of Statistics*, **50**, 213–234. [[link]](https://doi.org/10.1111/sjos.12578) [[arXiv]](https://doi.org/10.48550/arXiv.2201.06994)
 *  Fasano, A., Rebaudo, G., Durante D., and Petrone S. (2021). **A closed-form filter for binary time series.** *Statistics and Computing*, **31**:47, 1-20. [[link]](https://doi.org/10.1007/s11222-021-10022-w) [[arXiv]](https://doi.org/10.48550/arXiv.1902.06994)
 
 ## Discussions
-* Catalano, M., Fasano, A., Giordano, M., and Rebaudo G. (2024) **A discussion on: "Root and community inference on the latent growth process of a network" by Crane H. and Xu M.** *Journal of the Royal Statistical Society Series B*, in press.
+* Catalano, M., Fasano, A., Giordano, M., and Rebaudo G. (2024) **A discussion on: "Root and community inference on the latent growth process of a network" by Crane H. and Xu M.** *Journal of the Royal Statistical Society Series B*, in press. [[link]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae051/7688442)
 * Catalano, M., Fasano, A., and Rebaudo G. (2023) **A discussion on: "Martingale posterior distributions" by Fong, E., Holmes C., and Walker S.** *Journal of the Royal Statistical Society Series B*, **85**, 1406-1407. [[link]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkad095/7252511)
 * Rebaudo G., Fasano, A., Franzolini, B., and Müller, P. (2023) **A discussion on: "Evaluating sensitivity to the stick-breaking prior in Bayesian nonparametrics" by Giordano, R., Liu, R., Jordan M. I., and Broderick T.** *Bayesian Analysis*, **18**, 345-347. [[link]](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full) [[pdf]](/Publications/2022RebaudoFasanoFranzoliniMueller.pdf)
 
