@@ -15,7 +15,7 @@ For a complete list of publications refer to my [curriculum vitae](/files/Rebaud
 *  Rebaudo G., Llanos, F., Chandrasekaran B., and Sarkar, A. **Bayesian mixed multidimensional scaling for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
 ## Papers in Peer-Reviewed Journals
-*  Rebaudo, G. and Müller, P. (2024) **Graph-aligned random partition model (GARP).** *Journal of the American Statistical Association (T & M)*, in press. [[arXiv]](https://arxiv.org/abs/2306.08485) [[pdf]](/Publications/2024RebaudoMueller.pdf)
+*  Rebaudo, G. and Müller, P. (2024) **Graph-aligned random partition model (GARP).** *Journal of the American Statistical Association (T & M)*, in press. [[link]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2353943) [[arXiv]](https://arxiv.org/abs/2306.08485)
 *  Roark, C. L., Paulon, G., Rebaudo, G., McHaney, J. R., Sarkar, A., and Chandrasekaran, B. (2024). **Individual differences in working memory impact the trajectory of non-native speech category learning.** *PLOS ONE*, **19**:e0297917, 1-26. [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297917) [[code]](https://doi.org/10.17605/OSF.IO/WDPYU)
 *  Franzolini, B. and Rebaudo, G. (2024). **Entropy regularization in probabilistic clustering.** *Statistical Methods & Applications*, **33**, 37-60. [[link]](https://link.springer.com/article/10.1007/s10260-023-00716-y) [[arXiv]](https://arxiv.org/abs/2307.10065) [[GitHub]](https://github.com/GiovanniRebaudo/ERC)
 *  Ascolani,  F., Lijoi, A., Rebaudo G., and Zanella G. (2023). **Clustering consistency with Dirichlet process mixtures.** *Biometrika*, **110**, 551-558. [[link]](https://doi.org/10.1093/biomet/asac051) [[arXiv]](https://doi.org/10.48550/arXiv.2205.12924)
@@ -39,7 +39,7 @@ For a complete list of publications refer to my [curriculum vitae](/files/Rebaud
 *  Fasano, A. and Rebaudo, G. (2021). **Variational inference for the smoothing distribution in dynamic probit models.** *Book of Short Papers - SIS 2021*, 1076-1081. [[link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-2.pdf) [[arXiv]](https://doi.org/10.48550/arXiv.2104.07537) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-PFMVB)
 
 ## My External Collections of Publications
-*   [Google scholar](https://scholar.google.com/citations?user=XJS6zU8AAAAJ&hl=en&oi=ao)
+*   [Google Scholar](https://scholar.google.com/citations?user=XJS6zU8AAAAJ&hl=en&oi=ao)
 *   [ArXiv](https://arxiv.org/a/rebaudo_g_1.html)
 *   [ResearchGate](https://www.researchgate.net/profile/Giovanni-Rebaudo)
 *   [Orcid](https://orcid.org/0000-0003-4619-9302)
