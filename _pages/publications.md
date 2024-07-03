@@ -10,7 +10,7 @@ redirect_from:
 For a complete list of publications refer to my [curriculum vitae](/files/RebaudoCV.pdf). Codes can be found in my [GitHub repository](https://github.com/GiovanniRebaudo).
 
 ## Papers under Review
-*  Anceschi, N., Fasano, A., Franzolini, B., and Rebaudo, G. **Scalable expectation propagation for generalized linear regressions.**
+*  Anceschi, N., Fasano, A., Franzolini, B., and Rebaudo, G. **Scalable expectation propagation for generalized linear regressions.** [[arXiv]](https://arxiv.org/abs/2407.02128)
 *  Rebaudo G., Lin, Q., and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [[arXiv]](https://arxiv.org/abs/2112.07755)
 *  Rebaudo G., Llanos, F., Chandrasekaran B., and Sarkar, A. **Bayesian mixed multidimensional scaling for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
