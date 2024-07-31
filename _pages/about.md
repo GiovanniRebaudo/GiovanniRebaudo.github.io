@@ -33,6 +33,8 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 ## News and upcoming events
 
 * [Workshop on Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196) (Oaxaca, 1-6 Sept 2024)
+* [International Conference on Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719) (Varanasi, 5-8 January 2025)
+* [14th World Meeting on Bayesian Nonparametrics](https://bnp14.org) (Los Angeles, 23-27 June 2025)
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Torino, 21-25 July 2025)
 
 
