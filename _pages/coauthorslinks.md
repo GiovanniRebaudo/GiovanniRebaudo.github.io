@@ -37,6 +37,7 @@ redirect_from:
 ## Research networks
 
 * The ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) of the [Collegio Carlo Alberto](https://www.carloalberto.org/)
+* [Statistics: Methodology and Applications Research Group](https://www.esomas.unito.it/do/gruppi.pl/Show?_id=3x2e) at University of Torino, ESOMAS Department
 * The Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) 
 * Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network)
 
