@@ -22,13 +22,12 @@ For a complete list of publications refer to my [curriculum vitae](/files/Rebaud
 *  Lijoi, A., Prünster, I., and Rebaudo G. (2023). **Flexible clustering via hidden hierarchical Dirichlet priors.** *Scandinavian Journal of Statistics*, **50**, 213–234. [[link]](https://doi.org/10.1111/sjos.12578) [[arXiv]](https://doi.org/10.48550/arXiv.2201.06994)
 *  Fasano, A., Rebaudo, G., Durante D., and Petrone S. (2021). **A closed-form filter for binary time series.** *Statistics and Computing*, **31**:47, 1-20. [[link]](https://doi.org/10.1007/s11222-021-10022-w) [[arXiv]](https://doi.org/10.48550/arXiv.1902.06994)
 
-<!--
 ## Discussions
 * Catalano, M., Fasano, A., Giordano, M., and Rebaudo, G. (2024) **A discussion on: "Data fission: splitting a single data point" by Leiner, J., Duan, B., Wasserman L., and Ramdas, A.** *Journal of the American Statistical Association*, in press.
+* Catalano, M., Franzolini, B., Giordano, M., and Rebaudo, G. (2024) **A discussion on: "Sparse Bayesian factor analysis when the number of factors is unknown" by Frühwirth-Schnatter, S., Hosszejni D., and Lopes H. F.** *Bayesian Analysis*, in press.
 * Catalano, M., Fasano, A., Giordano, M., and Rebaudo G. (2024) **A discussion on: "Root and community inference on the latent growth process of a network" by Crane H. and Xu M.** *Journal of the Royal Statistical Society Series B*, **86**, 874-875. [[link]](https://academic.oup.com/jrsssb/article/86/4/874/7688442)
 * Catalano, M., Fasano, A., and Rebaudo G. (2023) **A discussion on: "Martingale posterior distributions" by Fong, E., Holmes C., and Walker S.** *Journal of the Royal Statistical Society Series B*, **85**, 1406-1407. [[link]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkad095/7252511)
 * Rebaudo G., Fasano, A., Franzolini, B., and Müller, P. (2023) **A discussion on: "Evaluating sensitivity to the stick-breaking prior in Bayesian nonparametrics" by Giordano, R., Liu, R., Jordan M. I., and Broderick T.** *Bayesian Analysis*, **18**, 345-347. [[link]](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full) [[pdf]](/Publications/2022RebaudoFasanoFranzoliniMueller.pdf)
--->
 
 ## Conference Proceedings and Book Chapters (Peer-Reviewed)
 *   Anceschi N., Fasano, A., and Rebaudo G. (2023). **Expectation propagation for the smoothing distribution in dynamic probit.** *Bayesian Statistics, New Generations New Approaches (BaYSM2022)*, 435, 105-115. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_10) [[pdf]](/Publications/2023AnceschiFasanoRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-EP)
