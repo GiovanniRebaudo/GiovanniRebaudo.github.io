@@ -32,6 +32,8 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 ## News and upcoming events
 
+* I have obtained the [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/2).
+
 * [International Conference on Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719_International-Conference--on-Recent-Developments-in-the-Techniques-of-Bayesian-Paradigm-Home) (Varanasi, 5-8 January 2025)
 * [14th World Meeting on Bayesian Nonparametrics](https://bnp14.org) (Los Angeles, 23-27 June 2025)
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Torino, 21-25 July 2025)
