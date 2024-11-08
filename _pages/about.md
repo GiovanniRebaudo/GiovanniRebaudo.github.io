@@ -28,11 +28,12 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 * **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo, sequential Monte Carlo methods, variational inference, and expectation propagation.
 
-* **Applications**: auditory neuroscience, genomics and proteomics.
+* **Applications**: auditory neuroscience, genomics, and proteomics.
 
 ## News and upcoming events
 
-* I have obtained the [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
+* [Blackwell and Rosenbluth Award 2024](https://j-isba.github.io/blackwell-rosenbluth.html)
+* [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
 
 * [International Conference on Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719_International-Conference--on-Recent-Developments-in-the-Techniques-of-Bayesian-Paradigm-Home) (Varanasi, 5-8 January 2025)
 * [Bayesian Inference in Stochastic Processes, BISP 14](https://bisp14.imati.cnr.it/home_page.php?ref_code=BISP14) (Milan, 26-28 May 2025)
