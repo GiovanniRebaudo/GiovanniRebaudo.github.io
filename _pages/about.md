@@ -12,21 +12,21 @@ Welcome to my web page!
 
 I am an Assistant Professor (RtdA) of Statistical Science at the [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) of the [University of Torino](https://en.unito.it). 
 
-I am also a Research Affiliate at [Collegio Carlo Alberto](https://www.carloalberto.org) as part of the ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative), a Research Affiliate at the [Bayes Lab](https://bayeslab.unibocconi.eu/) at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home) and a member of the Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network).
+I am also a [Collegio Carlo Alberto Affiliate](https://www.carloalberto.org/person/giovanni-rebaudo/) and member of ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative) at [Collegio Carlo Alberto](https://www.carloalberto.org), a Research Affiliate at the [Bayes Lab](https://bayeslab.unibocconi.eu/) at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home) and a member of the Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network).
 
 Previously, I was a postdoctoral researcher in Statistics at the [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at [the University of Texas at Austin](https://www.utexas.edu/), under the mentorship of [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) and [Abhra Sarkar](https://abhrastat.github.io/). 
 I obtained my Ph.D. in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home), under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=).
 
 ## Research interests
-I am interested in Bayesian modeling of complex data structures. More specifically I have been working on:
+I am interested in Bayesian modeling of complex data structures. More specifically, I have been working on:
 
 * **Bayesian nonparametrics**: discrete random probabilities, mixture models, random partitions, and probabilistic clustering.
 
-* **Bayesian modeling for binary and categorical data**: dynamic regression for binary time series, hidden Markov models, drift-diffusion models, and Bayesian categorical regression.
+* **Bayesian modeling for binary and categorical data**: dynamic regression for binary time series, hidden Markov models, and Bayesian categorical regression.
 
 * **Probabilistic dimensionality reduction**: Bayesian multidimensional scaling and individual difference scaling analysis.
 
-* **Computational statistics**:  Monte Carlo, Markov chain Monte Carlo, sequential Monte Carlo methods, variational inference, and expectation propagation.
+* **Computational statistics**:  Monte Carlo Markov chain, Monte Carlo, sequential Monte Carlo methods, variational inference, and expectation propagation.
 
 * **Applications**: auditory neuroscience, genomics, and proteomics.
 
@@ -36,7 +36,6 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 * [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
 
 
-* [BAYSM 2025](https://baysm2025.github.io/) (Online, 7-11 April 2025)
 * [Bayesian Inference in Stochastic Processes, BISP 14](https://bisp14.imati.cnr.it/home_page.php?ref_code=BISP14) (Milan, 26-28 May 2025)
 * [14th World Meeting on Bayesian Nonparametrics](https://bnp14.org) (Los Angeles, 23-27 June 2025)
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Torino, 21-25 July 2025)
