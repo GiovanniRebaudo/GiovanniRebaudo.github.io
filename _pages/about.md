@@ -35,8 +35,6 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 * [Blackwell and Rosenbluth Award 2024](https://j-isba.github.io/blackwell-rosenbluth.html)
 * [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
 
-
-* [Bayesian Inference in Stochastic Processes, BISP 14](https://bisp14.imati.cnr.it/home_page.php?ref_code=BISP14) (Milan, 26-28 May 2025)
 * [14th World Meeting on Bayesian Nonparametrics](https://bnp14.org) (Los Angeles, 23-27 June 2025)
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Torino, 21-25 July 2025)
 
