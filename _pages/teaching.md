@@ -11,9 +11,9 @@ redirect_from:
 ## Teaching experience
 
 **Lecturer** at the University of Torino:
-* [Statistical Machine Learning](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=mb7n) - M.Sc. (AY 2024-2025).
+* [Statistical Machine Learning](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=mb7n) - M.Sc. (AY 2024-2025, 2025-2026).
+* [Introduction to Data Science: Statistical Learning and Data Analytics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=qtu2) - B.Sc. (AY 2022-2023, 2023-2024, 2024-2025, 2025-2026).
 * [Statistics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=5nf6) - B.Sc. (AY 2022-2023, 2023-2024).
-* [Introduction to Data Science: Statistical Learning and Data Analytics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=qtu2) - B.Sc. (AY 2022-2023, 2023-2024, 2024-2025).
 
 **Guest lecturer** at the University of Texas at Austin:
 * [Monte Carlo Statistical Methods](https://stat.utexas.edu/academics/phd-statistics) - Ph.D. (AY 2022-2023).
