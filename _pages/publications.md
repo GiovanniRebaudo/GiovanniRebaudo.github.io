@@ -7,7 +7,10 @@ redirect_from:
   - /publications
 ---
 {% include base_path %}
-For a complete list of publications refer to my [curriculum vitae](/files/RebaudoCV.pdf). Codes can be found in my [GitHub repository](https://github.com/GiovanniRebaudo).
+For a complete list of publications, refer to my [curriculum vitae](/files/RebaudoCV.pdf). Codes can be found in my [GitHub repository](https://github.com/GiovanniRebaudo).
+
+## Preprint of Working Papers
+*   Franzolini, B., Lijoi, A., Prünster, I., and Rebaudo, G. **Multivariate species sampling models.** [[arXiv]](https://arxiv.org/abs/2503.24004)
 
 ## Papers under Review
 *  Anceschi, N., Fasano, A., Franzolini, B., and Rebaudo, G. **Scalable expectation propagation for generalized linear regressions.** [[arXiv]](https://arxiv.org/abs/2407.02128)
@@ -30,7 +33,8 @@ For a complete list of publications refer to my [curriculum vitae](/files/Rebaud
 * Rebaudo G., Fasano, A., Franzolini, B., and Müller, P. (2023) **A discussion on: "Evaluating sensitivity to the stick-breaking prior in Bayesian nonparametrics" by Giordano, R., Liu, R., Jordan, M. I., and Broderick, T.** *Bayesian Analysis*, **18**, 345-347. [[link]](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Evaluating-Sensitivity-to-the-Stick-Breaking-Prior-in-Bayesian-Nonparametrics/10.1214/22-BA1309.full) [[pdf]](/Publications/2022RebaudoFasanoFranzoliniMueller.pdf)
 
 ## Conference Proceedings and Book Chapters (Peer-Reviewed)
-*   Anceschi N., Fasano, A., and Rebaudo G. (2023). **Expectation propagation for the smoothing distribution in dynamic probit.** *Bayesian Statistics, New Generations New Approaches (BaYSM2022)*, 435, 105-115. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_10) [[pdf]](/Publications/2023AnceschiFasanoRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-EP)
+*  Fasano, A., Rimella, L., and Rebaudo, G. (2025). **Empirical Bayes for the ridge penalty in probit models.** Book of Short Papers - SIS 2025 3, 200–205. [[link]](https://link.springer.com/book/10.1007/978-3-031-95995-0)
+*  Anceschi N., Fasano, A., and Rebaudo G. (2023). **Expectation propagation for the smoothing distribution in dynamic probit.** *Bayesian Statistics, New Generations New Approaches (BaYSM2022)*, 435, 105-115. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_10) [[pdf]](/Publications/2023AnceschiFasanoRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-EP)
 *  Fasano, A., Anceschi N., Franzolini, B., and Rebaudo G. (2023) **Efficient computation of predictive probabilities in probit models via expectation propagation.** *Book of Short Papers - CLADAG
 2023*, 449-452. [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
 * Franzolini, B., Bondi, L., Fasano, A., and Rebaudo G. (2023). **Bayesian forecasting of multivariate longitudinal zero-inflated counts: an application to civil conflict.** *Book of Short Papers - CLADAG
