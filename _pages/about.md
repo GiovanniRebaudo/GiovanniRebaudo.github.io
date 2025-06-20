@@ -37,7 +37,7 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 * [14th World Meeting on Bayesian Nonparametrics](https://bnp14.org) (Los Angeles, 23-27 June 2025)
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Torino, 21-25 July 2025)
-* [5th Italian Meeting onProbability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/#:~:text=Palermo%2C%20Italy%2C%20June%208%20%E2%80%93%2012%2C%202026&text=The%20meeting%20aims%20to%20bring,results%20and%20fostering%20academic%20exchange) (Palermo, June 8-12, 2026)
+* [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/#:~:text=Palermo%2C%20Italy%2C%20June%208%20%E2%80%93%2012%2C%202026&text=The%20meeting%20aims%20to%20bring,results%20and%20fostering%20academic%20exchange) (Palermo, June 8-12, 2026)
 * [ISBA World Meeting](https://isba2026.github.io/) (Nagoya, June 28-July 3, 2026)
 
 
