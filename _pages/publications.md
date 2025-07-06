@@ -9,11 +9,10 @@ redirect_from:
 {% include base_path %}
 For a complete list of publications, refer to my [curriculum vitae](/files/RebaudoCV.pdf). Codes can be found in my [GitHub repository](https://github.com/GiovanniRebaudo).
 
-## Preprint of Working Papers
-*   Franzolini, B., Lijoi, A., Prünster, I., and Rebaudo, G. **Multivariate species sampling models.** [[arXiv]](https://arxiv.org/abs/2503.24004)
 
 ## Papers under Review
 *  Anceschi, N., Fasano, A., Franzolini, B., and Rebaudo, G. **Scalable expectation propagation for generalized linear regressions.** [[arXiv]](https://arxiv.org/abs/2407.02128)
+*  Franzolini, B., Lijoi, A., Prünster, I., and Rebaudo, G. **Multivariate species sampling models.** [[arXiv]](https://arxiv.org/abs/2503.24004)
 *  Rebaudo G., Lin, Q., and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [[arXiv]](https://arxiv.org/abs/2112.07755)
 *  Rebaudo G., Llanos, F., Chandrasekaran B., and Sarkar, A. **Bayesian mixed multidimensional scaling for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
