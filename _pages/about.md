@@ -36,7 +36,7 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 * [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/#:~:text=Palermo%2C%20Italy%2C%20June%208%20%E2%80%93%2012%2C%202026&text=The%20meeting%20aims%20to%20bring,results%20and%20fostering%20academic%20exchange) (Palermo, June 8-12, 2026)
 * [ISBA World Meeting](https://isba2026.github.io/) (Nagoya, June 28-July 3, 2026)
 
-## Past News & Events
+## Past News and Events
 
 * [Blackwell and Rosenbluth Award 2024](https://j-isba.github.io/blackwell-rosenbluth.html)
 * [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
