@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my web page!
 
-I am an Assistant Professor (RtdA) of Statistical Science at the [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) of the [University of Torino](https://en.unito.it). 
+I am an Assistant Professor (RTD-A) of Statistical Science at the [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) of the [University of Torino](https://en.unito.it). 
 
 I am also a [Collegio Carlo Alberto Affiliate](https://www.carloalberto.org/person/giovanni-rebaudo/), and a member of ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative) at [Collegio Carlo Alberto](https://www.carloalberto.org), a Research Affiliate at the [Bayes Lab](https://bayeslab.unibocconi.eu/) at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home) and a member of the Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network).
 
@@ -26,7 +26,7 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 
 * **Probabilistic dimensionality reduction**: Bayesian multidimensional scaling and individual difference scaling analysis.
 
-* **Computational statistics**:  Monte Carlo Markov chain, Monte Carlo, sequential Monte Carlo methods, variational inference, and expectation propagation.
+* **Computational statistics**:  Markov chain Monte Carlo, Monte Carlo, sequential Monte Carlo methods, variational inference, and expectation propagation.
 
 * **Applications**: auditory neuroscience, genomics, and proteomics.
 
