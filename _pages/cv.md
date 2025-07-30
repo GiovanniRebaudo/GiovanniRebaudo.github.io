@@ -10,7 +10,7 @@ redirect_from:
 A full version of my CV can be found [here](/files/RebaudoCV.pdf)
 
 ## Current position
-* Assistant Professor (RTDA secs-s/01), [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) at the [University of Turin](https://en.unito.it), Italy
+* Assistant Professor (RTD-A STAT-01), [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) at the [University of Turin](https://en.unito.it), Italy
 
 ## Past position
 * Postdoctoral Researcher, [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at [the University of Texas at Austin](https://www.utexas.edu/),  USA
