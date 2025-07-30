@@ -14,7 +14,7 @@ A full version of my CV can be found [here](/files/RebaudoCV.pdf)
 
 ## Past position
 * Postdoctoral Researcher, [Department of Statistics and Data Sciences](https://stat.utexas.edu/) at [the University of Texas at Austin](https://www.utexas.edu/),  USA
-  * Mentorships: [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) and [Abhra Sarkar](https://abhrastat.github.io/)
+  * Mentors: [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) and [Abhra Sarkar](https://abhrastat.github.io/)
 
 
 ## Education
