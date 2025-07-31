@@ -40,4 +40,5 @@ I am interested in Bayesian modeling of complex data structures. More specifical
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Torino, 21-25 July 2025)
 * [Blackwell and Rosenbluth Award 2024](https://j-isba.github.io/blackwell-rosenbluth.html)
 * [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
+* [SUS4 (in Italian)](https://www.unipa.it/dipartimenti/seas/sus4/vincitori)
 
