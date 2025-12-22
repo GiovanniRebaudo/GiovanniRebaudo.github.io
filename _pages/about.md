@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my web page!
 
-I am an Assistant Professor (RTD-A) of Statistical Science at the [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) of the [University of Torino](https://en.unito.it). 
+I am an Assistant Professor (RTD-A) of Statistical Science at the [Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS)](https://www.esomas-en.unito.it/do/home.pl) of the [University of Turin](https://en.unito.it). 
 
 I am also a [Carlo Alberto Affiliate](https://www.carloalberto.org/person/giovanni-rebaudo/) and a member of ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative) at [Collegio Carlo Alberto](https://www.carloalberto.org) and a Research Affiliate at the [Bayes Lab](https://bayeslab.unibocconi.eu/) at the [Bocconi Institute for Data Science and Analytics (BIDSA)](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home).
 
@@ -32,12 +32,13 @@ My research interests range from Mathematical Statistics to Machine Learning, wi
 
 ## News and upcoming events
 
-* [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/#:~:text=Palermo%2C%20Italy%2C%20June%208%20%E2%80%93%2012%2C%202026&text=The%20meeting%20aims%20to%20bring,results%20and%20fostering%20academic%20exchange) (Palermo, June 8-12, 2026)
-* [ISBA World Meeting](https://isba2026.github.io/) (Nagoya, June 28-July 3, 2026)
+* [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/#:~:text=Palermo%2C%20Italy%2C%20June%208%20%E2%80%93%2012%2C%202026&text=The%20meeting%20aims%20to%20bring,results%20and%20fostering%20academic%20exchange) (Palermo, June 8-12 2026)
+* [ISBA World Meeting](https://isba2026.github.io/) (Nagoya, June 28-July 3 2026)
+* [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce,15-18 September 2026)
 
 ## Past news and events
 
-* [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Torino, 21-25 July 2025)
+* [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Turin, 21-25 July 2025)
 * [Blackwell and Rosenbluth Award 2024](https://j-isba.github.io/blackwell-rosenbluth.html)
 * [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
 * [SUS4 (in Italian)](https://www.unipa.it/dipartimenti/seas/sus4/vincitori)
