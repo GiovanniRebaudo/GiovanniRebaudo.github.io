@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ## Teaching experience
 
-**Lecturer** at the University of Torino:
+**Lecturer** at the University of Turin:
 * [Statistical Machine Learning](https://www.master-sds.unito.it/do/corsi.pl/Show?_id=mb7n) - M.Sc. (AY 2024-2025, 2025-2026).
 * [Introduction to Data Science: Statistical Learning and Data Analytics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=qtu2) - B.Sc. (AY 2022-2023, 2023-2024, 2024-2025, 2025-2026).
 * [Statistics](https://www.ecocomm.unito.it/do/corsi.pl/Show?_id=5nf6) - B.Sc. (AY 2022-2023, 2023-2024).
@@ -25,5 +25,5 @@ redirect_from:
 * [Data Analysis](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2020&IdPag=6203) - M.Sc. (AY 2017-2018, 2018-2019, 2019-2020).
 
 ## Teaching certifications
-* [IRIDI START](https://www.teachingandlearningcenter.unito.it/it/attivita/formazione-personale-docente-e-ricercatore/formazione-iniziale-iridi-start), University of Torino.
+* [IRIDI START](https://www.teachingandlearningcenter.unito.it/it/attivita/formazione-personale-docente-e-ricercatore/formazione-iniziale-iridi-start), University of Turin.
 * Bocconi Excellence In Advanced Teaching ([BEAT](https://bestr.it/project/show/114?ln=en)).
