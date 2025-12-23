@@ -14,16 +14,16 @@ redirect_from:
 * [Laura Bondi](https://laurabondi.github.io) (Human Technopole, Italy)
 * [Marta Catalano](https://martacatalano.github.io) (Luiss University, Italy)
 * [Daniele Durante](https://danieledurante.github.io/web) (Bocconi University, Italy)
-* [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (University of Torino, Italy)
-* [Beatrice Franzolini](https://beatricefranzolini.github.io/) (Bocconi University, Italy)
-* [Matteo Giordano](https://matteogiordano.weebly.com) (University of Torino, Italy)
+* [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (University of Turin, Italy)
+* [Beatrice Franzolini](https://beatricefranzolini.github.io/) (Bicocca University, Italy)
+* [Matteo Giordano](https://matteogiordano.weebly.com) (University of Turin, Italy)
 * [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) (Bocconi University, Italy)
 * [Qiaohui Lin](https://qiaohuilin.github.io/) (Genentech, USA)
 * [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) (The University of Texas at Austin, USA)
 * [Giorgio Paulon](https://giorgiopaulon.github.io/) (Berry Consultants, USA)
 * [Sonia Petrone](http://didattica.unibocconi.eu/docenti/cv.php?rif=48897) (Bocconi University, Italy)
 * [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) (Bocconi University, Italy)
-* [Lorenzo Rimella](https://lorenzorimella.github.io) (University of Torino, Italy)
+* [Lorenzo Rimella](https://lorenzorimella.github.io) (University of Bergamo, Italy)
 * [Abhra Sarkar](https://abhrastat.github.io) (The University of Texas at Austin, USA)
 * [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home) (Bocconi University, Italy)
 
@@ -37,7 +37,7 @@ redirect_from:
 ## Research networks
 
 * The ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) of the [Collegio Carlo Alberto](https://www.carloalberto.org/)
-* [Statistics: Methodology and Applications Research Group](https://www.esomas.unito.it/do/gruppi.pl/Show?_id=3x2e) at University of Torino, ESOMAS Department
+* [Statistics: Methodology and Applications Research Group](https://www.esomas.unito.it/do/gruppi.pl/Show?_id=3x2e) at University of Turin, ESOMAS Department
 * The Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) 
 * Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network)
 
