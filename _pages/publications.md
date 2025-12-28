@@ -15,10 +15,10 @@ For a complete list of publications, refer to my [curriculum vitae](/files/Rebau
 *  Fasano, A. and Rebaudo, G. **Mean-field variational Bayes for sparse probit regression.**
 *  Fasano, A., Lijoi, A., Prünster, I., and Rebaudo, G. **Probabilistic discovery of new species and homogeneous subpopulations.**
 *  Franzolini, B., Lijoi, A., Prünster, I., and Rebaudo, G. **Multivariate species sampling models.** [[arXiv]](https://arxiv.org/abs/2503.24004)
-*  Rebaudo, G., Lin, Q., and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** [[arXiv]](https://arxiv.org/abs/2112.07755)
 *  Rebaudo, G., Llanos, F., Chandrasekaran, B., and Sarkar, A. **Bayesian mixed multidimensional scaling for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
 ## Papers in Peer-Reviewed Journals
+*  Rebaudo, G., Lin, Q., and Müller, P. **Separate exchangeability as modeling principle in Bayesian nonparametrics.** *Statistical Science*, forthcoming. [[arXiv]](https://arxiv.org/abs/2112.07755)
 *  Rebaudo, G. and Müller, P. (2025) **Graph-aligned random partition model (GARP).** *Journal of the American Statistical Association (T & M)*, **120**, 486-497. [[link]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2353943) [[arXiv]](https://arxiv.org/abs/2306.08485)
 *  Roark, C. L., Paulon, G., Rebaudo, G., McHaney, J. R., Sarkar, A., and Chandrasekaran, B. (2024). **Individual differences in working memory impact the trajectory of non-native speech category learning.** *PLOS ONE*, **19**:e0297917, 1-26. [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297917) [[code]](https://doi.org/10.17605/OSF.IO/WDPYU)
 *  Franzolini, B. and Rebaudo, G. (2024). **Entropy regularization in probabilistic clustering.** *Statistical Methods & Applications*, **33**, 37-60. [[link]](https://link.springer.com/article/10.1007/s10260-023-00716-y) [[arXiv]](https://arxiv.org/abs/2307.10065) [[GitHub]](https://github.com/GiovanniRebaudo/ERC)
