@@ -19,7 +19,7 @@ redirect_from:
 * [Francesco Furlan](https://www.linkedin.com/in/francescofurlan01) (University of Turin, Italy)
 * [Matteo Giordano](https://matteogiordano.weebly.com) (University of Turin and Collegio Carlo Alberto, Italy)
 * [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) (Bocconi University, Italy)
-* [Qiaohui Lin](https://qiaohuilin.github.io/) (Genentech, USA)
+* [Qiaohui Lin](https://www.linkedin.com/in/chelsea-lin-phd-904a42126/) (Genentech, USA)
 * [Peter Müller](https://web.ma.utexas.edu/users/pmueller/) (The University of Texas at Austin, USA)
 * [Giorgio Paulon](https://giorgiopaulon.github.io/) (Berry Consultants, USA)
 * [Sonia Petrone](http://didattica.unibocconi.eu/docenti/cv.php?rif=48897) (Bocconi University, Italy)
