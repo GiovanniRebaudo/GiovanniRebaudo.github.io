@@ -10,7 +10,7 @@ redirect_from:
 For a complete list of publications, refer to my [curriculum vitae](/files/RebaudoCV.pdf). Codes can be found in my [GitHub repository](https://github.com/GiovanniRebaudo).
 
 
-## Papers under Review
+## Papers under Review and Preprints
 *  Anceschi, N., Fasano, A., Franzolini, B., and Rebaudo, G. **Scalable expectation propagation for generalized linear regressions.** [[arXiv]](https://arxiv.org/abs/2407.02128)
 *  Fasano, A. and Rebaudo, G. **Mean-field variational Bayes for sparse probit regression.** [[arXiv]](http://arxiv.org/abs/2601.21765)
 *  Fasano, A., Lijoi, A., Prünster, I., and Rebaudo, G. **Probabilistic discovery of new species and homogeneous subpopulations.**
