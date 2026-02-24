@@ -18,7 +18,7 @@ Previously, I was a postdoctoral researcher in Statistics at the [Department of 
 I obtained my Ph.D. in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home), under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=).
 
 ## Research interests
-My research interests range from Mathematical Statistics to Probabilistic Machine Learning, with a particular focus on Bayesian modeling of complex data structures. More specifically, I have been working on:
+My research interests range from Bayesian Statistics to Probabilistic Machine Learning, with a particular focus on Bayesian modeling of complex data structures. More specifically, I have been working on:
 
 * **Bayesian nonparametrics**: discrete random probabilities, mixture models, random partitions, and probabilistic clustering.
 
