@@ -32,7 +32,6 @@ My research interests range from Bayesian Statistics to Probabilistic Machine Le
 
 ## News and upcoming events
 
-* [Statalk 2026](https://sites.google.com/view/statalk-2026/home?authuser=0) (Torino, 21-22 May 2026)
 * [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/#:~:text=Palermo%2C%20Italy%2C%20June%208%20%E2%80%93%2012%2C%202026&text=The%20meeting%20aims%20to%20bring,results%20and%20fostering%20academic%20exchange) (Palermo, June 8-12 2026)
 * [ISBA World Meeting](https://isba2026.github.io/) (Nagoya, June 28-July 3 2026)
 * [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce,15-18 September 2026)
@@ -40,6 +39,7 @@ My research interests range from Bayesian Statistics to Probabilistic Machine Le
 ## Past news and awards
 
 * [2026 IMS New Researchers Travel Award](https://imstat.org/ims-awards/ims-awards-recipients/)
+* [Statalk 2026](https://sites.google.com/view/statalk-2026/home?authuser=0) (Turin, 21-22 May 2026)
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Turin, 21-25 July 2025)
 * [Blackwell and Rosenbluth Award 2024](https://j-isba.github.io/blackwell-rosenbluth.html)
 * [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
