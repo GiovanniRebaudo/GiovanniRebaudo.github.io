@@ -37,7 +37,7 @@ My research interests range from Bayesian Statistics to Probabilistic Machine Le
 * [ISBA World Meeting](https://isba2026.github.io/) (Nagoya, June 28-July 3 2026)
 * [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce,15-18 September 2026)
 
-## Past news and events
+## Past news and awards
 
 * [2026 IMS New Researchers Travel Award](https://imstat.org/ims-awards/ims-awards-recipients/)
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Turin, 21-25 July 2025)
