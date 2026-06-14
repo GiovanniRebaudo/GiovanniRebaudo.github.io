@@ -13,9 +13,9 @@ For a complete list of publications, refer to my [curriculum vitae](/files/Rebau
 ## Preprints
 *  Anceschi, N., Fasano, A., Franzolini, B., and Rebaudo, G. **Scalable expectation propagation for generalized linear regressions.** [[arXiv]](https://arxiv.org/abs/2407.02128)
 *  Franzolini, B., Lijoi, A., Prünster, I., and Rebaudo, G. **Multivariate species sampling models.** [[arXiv]](https://arxiv.org/abs/2503.24004)
-*  Rebaudo, G., Llanos, F., Chandrasekaran, B., and Sarkar, A. **Bayesian mixed multidimensional scaling for auditory processing.** [[arXiv]](https://arxiv.org/abs/2209.00102)
 
 ## Papers in Peer-Reviewed Journals
+*  Rebaudo, G., Llanos, F., Chandrasekaran, B., and Sarkar, A. **Bayesian mixed multidimensional scaling for auditory processing.** *Psychometrika*, forthcoming. [[arXiv]](https://arxiv.org/abs/2209.00102)
 *  Rebaudo, G., Lin, Q., and Müller, P. (2026). **Separate exchangeability as modeling principle in Bayesian nonparametrics.** *Statistical Science*, forthcoming. [[arXiv]](https://arxiv.org/abs/2112.07755)
 *  Fasano, A. and Rebaudo, G. (2026). **Mean-field variational Bayes for sparse probit regression.** *Computational Statistics and Data Analysis*, **223**:108415, 1-10. [[link]](https://www.sciencedirect.com/science/article/pii/S0167947326000848) [[arXiv]](http://arxiv.org/abs/2601.21765)
 *  Rebaudo, G. and Müller, P. (2025). **Graph-aligned random partition model (GARP).** *Journal of the American Statistical Association (T & M)*, **120**, 486-497. [[link]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2353943) [[arXiv]](https://arxiv.org/abs/2306.08485)
