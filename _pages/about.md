@@ -32,7 +32,6 @@ My research interests range from Bayesian Statistics to Probabilistic Machine Le
 
 ## News and upcoming events
 
-* [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/#:~:text=Palermo%2C%20Italy%2C%20June%208%20%E2%80%93%2012%2C%202026&text=The%20meeting%20aims%20to%20bring,results%20and%20fostering%20academic%20exchange) (Palermo, June 8-12 2026)
 * [ISBA World Meeting](https://isba2026.github.io/) (Nagoya, June 28-July 3 2026)
 * [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce,15-18 September 2026)
 
