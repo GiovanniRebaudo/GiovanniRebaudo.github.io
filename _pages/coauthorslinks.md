@@ -52,7 +52,3 @@ redirect_from:
 * ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative)
 * [DataLab](https://www.carloalberto.org/research/datalab)
 * [Fondazione "Franca e Diego de Castro"](http://www.diegodecastro.it/fondazione.htm)
-
-## A lecture on philosophy of science that I like
-
-* [Dr. Hasok Chang: "Is There Room for Pluralism in Science?"](https://www.youtube.com/watch?v=2zodSx_5geA&ab_channel=YaleUniversity0)
