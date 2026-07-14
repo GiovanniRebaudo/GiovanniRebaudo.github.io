@@ -25,7 +25,7 @@ redirect_from:
 * [Sonia Petrone](http://didattica.unibocconi.eu/docenti/cv.php?rif=48897) (Bocconi University, Italy)
 * [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=) (Bocconi University, Italy)
 * [Lorenzo Rimella](https://lorenzorimella.github.io) (University of Bergamo, Italy)
-* [Matteo Ruggiero](https://www.mruggiero.com) (New York University, Abu Dhabi)
+* [Matteo Ruggiero](https://www.mruggiero.com) (University of Turin and Collegio Carlo Alberto, Italy)
 * [Abhra Sarkar](https://abhrastat.github.io) (The University of Texas at Austin, USA)
 * [Giacomo Zanella](https://sites.google.com/site/gzanellawebpage/home) (Bocconi University, Italy)
 
