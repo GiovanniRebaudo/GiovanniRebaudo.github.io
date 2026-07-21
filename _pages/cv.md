@@ -27,7 +27,7 @@ A full version of my CV can be found [here](/files/RebaudoCV.pdf)
   
 * 2016: [MSc in Statistical and Actuarial Sciences](https://corsi.units.it/en/ec71/statistical-actuarial-sciences) (cum laude), Università degli Studi di Trieste, Italy
   * Thesis title: *Bayesian Hierarchical Model: Theory and Application*
-  * Advisors: [Francesco Pauli](https://www.units.it/persone/index.php/from/abook/persona/8755) and [Nicola Torelli](https://www.units.it/persone/index.php/from/abook/persona/8046)
+  * Advisors: [Francesco Pauli](https://www.units.it/persone/index.php/from/abook/persona/8755) and [Nicola Torelli](https://mib.edu/it/core-faculty/nicola-torelli)
 
 * 2014: [BSc in Statistical and Economic Sciences](https://www.unimib.it/ugov/degree/4717) (cum laude), Università degli Studi di Milano-Bicocca, Italy
   * Thesis title: *A New Technique for Estimation of Logarithmic Time Series Models: Forecast Comparison based on Economic Data*
