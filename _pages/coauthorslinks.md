@@ -16,7 +16,7 @@ redirect_from:
 * [Daniele Durante](https://danieledurante.github.io/web) (Bocconi University, Italy)
 * [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (University of Turin and Collegio Carlo Alberto, Italy)
 * [Beatrice Franzolini](https://beatricefranzolini.github.io/) (Bicocca University, Italy)
-* [Francesco Furlan](https://www.linkedin.com/in/francescofurlan01) (University of Turin, Italy)
+* [Francesco Furlan](https://sites.google.com/view/francescofurlan/home) (University of Turin, Italy)
 * [Matteo Giordano](https://matteogiordano.weebly.com) (University of Turin and Collegio Carlo Alberto, Italy)
 * [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) (Bocconi University, Italy)
 * [Qiaohui Lin](https://www.linkedin.com/in/chelsea-lin-phd-904a42126/) (Genentech, USA)
