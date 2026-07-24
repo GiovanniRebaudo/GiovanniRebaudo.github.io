@@ -33,6 +33,7 @@ My research interests range from Bayesian Statistics to Probabilistic Machine Le
 ## News and upcoming events
 
 * [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce,15-18 September 2026)
+* [BNP15](https://bnp15.github.io/) (Bergamo, 8 June-2 July 2027)
 
 ## Past news and awards
 
