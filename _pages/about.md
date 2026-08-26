@@ -40,7 +40,7 @@ My research interests range from Bayesian Statistics to Probabilistic Machine Le
 * [2026 IMS New Researcher Travel Award](https://imstat.org/ims-awards/ims-awards-recipients/)
 * [Statalk 2026](https://sites.google.com/view/statalk-2026/home?authuser=0) (Turin, 21-22 May 2026)
 * [EYSM 2025](https://sites.google.com/view/eysmtorino2025/home?authuser=0) (Turin, 21-25 July 2025)
-* [Blackwell--Rosenbluth Award 2024](https://j-isba.github.io/blackwell-rosenbluth-past-winners2024.html)
+* [Blackwell–Rosenbluth Award 2024](https://j-isba.github.io/blackwell-rosenbluth-past-winners2024.html)
 * [National Scientific Qualification (ASN) for Associate Professor in Statistics (13/D1)](https://asn23.cineca.it/pubblico/miur/esito-abilitato/13%252FD1/2/2)
 * [SUS4 (in Italian)](https://www.unipa.it/dipartimenti/seas/sus4/vincitori)
 
