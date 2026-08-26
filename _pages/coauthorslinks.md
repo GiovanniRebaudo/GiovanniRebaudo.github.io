@@ -15,7 +15,7 @@ redirect_from:
 * [Marta Catalano](https://martacatalano.github.io) (Luiss University, Italy)
 * [Daniele Durante](https://danieledurante.github.io/web) (Bocconi University, Italy)
 * [Augusto Fasano](https://sites.google.com/view/augustofasano/home) (University of Turin and Collegio Carlo Alberto, Italy)
-* [Beatrice Franzolini](https://beatricefranzolini.github.io/) (Bicocca University, Italy)
+* [Beatrice Franzolini](https://beatricefranzolini.github.io/) (King’s College London, UK)
 * [Francesco Furlan](https://sites.google.com/view/francescofurlan/home) (University of Turin, Italy)
 * [Matteo Giordano](https://matteogiordano.weebly.com) (University of Turin and Collegio Carlo Alberto, Italy)
 * [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) (Bocconi University, Italy)
@@ -33,7 +33,7 @@ redirect_from:
 
 * [Bharath Chandrasekaran](https://communication.northwestern.edu/faculty/bharath-chandrasekaran.html) (Northwestern University, USA)
 * [Fernando Llanos](https://liberalarts.utexas.edu/linguistics/faculty/fl5869) (The University of Texas at Austin, USA)
-* [Jacie McHaney](https://jrmchaney.github.io/) (Northwestern University, USA)
+* [Jacie McHaney](https://jrmchaney.github.io/) (The University of Texas at Austin, USA)
 * [Casey Roark](https://www.roarklab.com/) (University of New Hampshire, USA)
 
 ## Research networks
