@@ -36,7 +36,7 @@ redirect_from:
 * [Jacie McHaney](https://jrmchaney.github.io/) (The University of Texas at Austin, USA)
 * [Casey Roark](https://www.roarklab.com/) (University of New Hampshire, USA)
 
-## Research networks
+## Research Networks
 
 * The ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) of the [Collegio Carlo Alberto](https://www.carloalberto.org/)
 * [Statistics: Methodology and Applications Research Group](https://www.esomas.unito.it/do/gruppi.pl/Show?_id=3x2e) at University of Turin, ESOMAS Department
