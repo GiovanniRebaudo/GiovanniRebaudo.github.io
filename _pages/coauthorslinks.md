@@ -43,13 +43,13 @@ redirect_from:
 * The Bayesian Learning Laboratory ([Bayes Lab](https://bayeslab.unibocconi.eu/)) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) 
 * Complex Data Modeling Research Network led by [MiDas](https://midas.mat.uc.cl/network)
 
-## Statistics in Turin
+## Selected Statistics, Data Science and AI Initiatives in Turin
 
 * [M.Sc. in Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl) at [UniTo](https://en.unito.it)
 * [Allievi Honors Program](https://www.carloalberto.org/education/allievi-honors-program) at [Collegio Carlo Alberto](https://www.carloalberto.org/)
 * [Ph.D. in Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl/View?doc=/content/scientific_and_complementary_training.html) at [UniTo](https://en.unito.it)
 * [Statistics Seminars](https://www.carloalberto.org/events/category/seminars/seminars-in-statistics/list) at [Collegio Carlo Alberto](https://www.carloalberto.org/)
-* [AI4I Institute for Advanced Study (IAS)](https://ai4i.it/csp-ias/)
 * ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative)
+* [AI4I Institute for Advanced Study (IAS)](https://ai4i.it/csp-ias/)
 * [DataLab](https://www.carloalberto.org/research/datalab)
 * [Fondazione "Franca e Diego de Castro"](http://www.diegodecastro.it/fondazione.htm)
