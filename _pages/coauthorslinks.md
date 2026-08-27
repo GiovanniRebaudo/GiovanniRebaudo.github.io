@@ -49,6 +49,7 @@ redirect_from:
 * [Allievi Honors Program](https://www.carloalberto.org/education/allievi-honors-program) at [Collegio Carlo Alberto](https://www.carloalberto.org/)
 * [Ph.D. in Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl/View?doc=/content/scientific_and_complementary_training.html) at [UniTo](https://en.unito.it)
 * [Statistics Seminars](https://www.carloalberto.org/events/category/seminars/seminars-in-statistics/list) at [Collegio Carlo Alberto](https://www.carloalberto.org/)
+* [AI4I Institute for Advanced Study (IAS)](https://ai4i.it/csp-ias/)
 * ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative)
 * [DataLab](https://www.carloalberto.org/research/datalab)
 * [Fondazione "Franca e Diego de Castro"](http://www.diegodecastro.it/fondazione.htm)
