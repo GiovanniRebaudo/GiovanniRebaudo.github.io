@@ -35,7 +35,7 @@ For a complete list of publications, refer to my [curriculum vitae](/files/Rebau
 
 ## Conference Proceedings and Book Chapters (Peer-Reviewed)
 *  Ascolani, F., Furlan, F., Rebaudo, G., and Ruggiero, M. (2026). **Efficient Gibbs sampling for transition weights in Fleming--Viot filtering and smoothing.** *Book of Short Papers - SIS 2026*, 2, 144-149. [[link]](https://link.springer.com/chapter/10.1007/978-3-032-30877-1_24)
-*  Franzolini, B., Lijoi A., Prünster, I., and Rebaudo, G. (2026). **Understanding the correlation structure in dependent nonparametric models.** *Book of Short Papers - SIS 2026*, forthcoming.
+*  Franzolini, B., Lijoi A., Prünster, I., and Rebaudo, G. (2026). **Understanding correlation in dependent nonparametric models.** *Book of Short Papers - SIS 2026*, forthcoming.
 *  Fasano, A., Rebaudo, G., and Rimella, L.  (2025). **Empirical Bayes for the ridge penalty in probit models.** *Book of Short Papers - SIS 2025*, 3, 200–205. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-95995-0_34)
 *  Anceschi N., Fasano, A., and Rebaudo G. (2023). **Expectation propagation for the smoothing distribution in dynamic probit.** *Bayesian Statistics, New Generations New Approaches (BaYSM2022)*, 435, 105-115. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-42413-7_10) [[pdf]](/Publications/2023AnceschiFasanoRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/Dynamic-Probit-EP)
 *  Fasano, A., Anceschi, N., Franzolini, B., and Rebaudo, G. (2023) **Efficient computation of predictive probabilities in probit models via expectation propagation.** *Book of Short Papers - CLADAG 2023*, 449-452. [[pdf]](/Publications/2023CLADAGFasanoAnceschiFranzoliniRebaudo.pdf) [[GitHub]](https://github.com/augustofasano/EPprobit-SN)
