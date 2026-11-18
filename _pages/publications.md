@@ -13,7 +13,7 @@ For a complete list of publications, refer to my [curriculum vitae](/files/Rebau
 ## Preprints
 *  Anceschi, N., Fasano, A., Franzolini, B., and Rebaudo, G. **Scalable expectation propagation for generalized linear regressions.** [[arXiv]](https://arxiv.org/abs/2407.02128)
 *  Franzolini, B., Lijoi, A., Prünster, I., and Rebaudo, G. **Multivariate species sampling models.** [[arXiv]](https://arxiv.org/abs/2503.24004)
-*  	Rimella, L., Fasano, A., and Rebaudo, G. **Online inference for dynamic categorical regression models.** [[arXiv]](https://arxiv.org/abs/2611.22533)
+* Rimella, L., Fasano, A., and Rebaudo, G. **Online inference for dynamic categorical regression models.** [[arXiv]](https://arxiv.org/abs/2611.22533)
 
 ## Papers in Peer-Reviewed Journals
 *  Rebaudo, G., Llanos, F., Chandrasekaran, B., and Sarkar, A. (2026). **Bayesian mixed multidimensional scaling for auditory processing.** *Psychometrika*, forthcoming. [[link]](https://www.cambridge.org/core/journals/psychometrika/article/bayesian-mixed-multidimensional-scaling-for-auditory-processing/AA40DD9200330903A207F01EFB1B5B15) [[arXiv]](https://arxiv.org/abs/2209.00102)
